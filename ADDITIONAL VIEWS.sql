@@ -338,7 +338,7 @@ select * from (
 	FROM M4x4_VW
 	) as best_finish
 where lowest_place = place
-and upper(round) = 'FINAL'
+and upper(round) = 'FINAL';
 
 
 select * from (
@@ -356,4 +356,4 @@ where rnum = 1
          WHEN time ~ '^[0-9\.]+$' THEN CAST(time AS FLOAT)
          ELSE 999999
          END,
-         time
+         time;
