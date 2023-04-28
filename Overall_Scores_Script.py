@@ -23,10 +23,11 @@ all_champs_query = """
         select event, team, score from ncaa_2021_champs nc6 union all
         select event, team, score from ncaa_2022_champs nc7
     )
-    select event, team, coalesce(sum(score),0) as total_score
-    from all_champs
-    group by event,team
-    order by event,total_score desc nulls last
+        select team, coalesce(sum(score),0) as total_score
+        from all_champs
+        where event = '100m'
+        group by team
+        order by total_score desc
 """
 cur.execute(all_champs_query)
 
