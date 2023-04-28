@@ -3,17 +3,14 @@ import matplotlib.pyplot as plt
 
 # Connect to the PostgreSQL database
 conn = psycopg2.connect(
-    host="localhost",
-    database="tf_analytics",
-    user="tf.admin",
-    password="trackkid"
-)
+        database="tf_analytics"
+        , user="tf.admin"
+        , password="trackkid"
+        , host="localhost"
+        , port="5432")
 
-# Create a cursor object
-cur = conn.cursor()
-
-# Execute the SQL query
-all_champs_query = """
+# Define the SQL query
+query = """
     with all_champs as (
         select event, team, score from ncaa_2015_champs nc union all
         select event, team, score from ncaa_2016_champs nc2 union all
@@ -23,41 +20,29 @@ all_champs_query = """
         select event, team, score from ncaa_2021_champs nc6 union all
         select event, team, score from ncaa_2022_champs nc7
     )
-        select team, coalesce(sum(score),0) as total_score
-        from all_champs
-        where event = '100m'
-        group by team
-        order by total_score desc
+    select team, coalesce(sum(score),0) as total_score
+    from all_champs
+    where event = '100m'
+    group by team
+    order by total_score desc
 """
-cur.execute(all_champs_query)
 
-# Fetch the results and store them in a list
+# Execute the query and fetch the results
+cur = conn.cursor()
+cur.execute(query)
 results = cur.fetchall()
+
+# Extract the team names and scores from the results
+teams = [result[0] for result in results]
+scores = [result[1] for result in results]
 
 # Close the cursor and database connection
 cur.close()
 conn.close()
 
-# Process the results to create a bar chart
-events = []
-teams = []
-scores = []
-
-for row in results:
-    events.append(row[0])
-    teams.append(row[1])
-    scores.append(row[2])
-
-fig, ax = plt.subplots()
-ax.bar(teams, scores)
-
-# Set the chart title and axis labels
-ax.set_title('Total Scores by Event and Team')
-ax.set_xlabel('Team')
-ax.set_ylabel('Total Score')
-
-# Rotate the x-axis labels for better readability
-plt.xticks(rotation=90)
-
-# Display the chart
+# Create a bar chart using Matplotlib
+plt.bar(teams, scores)
+plt.title("Total Scores by Team for 100m Event")
+plt.xlabel("Team")
+plt.ylabel("Total Score")
 plt.show()
