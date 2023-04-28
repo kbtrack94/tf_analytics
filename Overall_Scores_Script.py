@@ -12,17 +12,18 @@ conn = psycopg2.connect(
 # Define the SQL query
 query = """
     with all_champs as (
-        select event, team, score from ncaa_2015_champs nc union all
-        select event, team, score from ncaa_2016_champs nc2 union all
-        select event, team, score from ncaa_2017_champs nc3 union all
-        select event, team, score from ncaa_2018_champs nc4 union all
-        select event, team, score from ncaa_2019_champs nc5 union all
-        select event, team, score from ncaa_2021_champs nc6 union all
-        select event, team, score from ncaa_2022_champs nc7
+        select event, round, team, score from ncaa_2015_champs nc union all
+        select event, round, team, score from ncaa_2016_champs nc2 union all
+        select event, round, team, score from ncaa_2017_champs nc3 union all
+        select event, round, team, score from ncaa_2018_champs nc4 union all
+        select event, round, team, score from ncaa_2019_champs nc5 union all
+        select event, round, team, score from ncaa_2021_champs nc6 union all
+        select event, round, team, score from ncaa_2022_champs nc7
     )
     select team, coalesce(sum(score),0) as total_score
     from all_champs
     where event = '100m'
+    and round = 'FINAL'
     group by team
     order by total_score desc
 """
