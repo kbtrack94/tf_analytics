@@ -45,4 +45,8 @@ plt.bar(teams, scores)
 plt.title("Total Scores by Team for 100m Event")
 plt.xlabel("Team")
 plt.ylabel("Total Score")
+
+# Set the rotation angle of the x-axis labels to 45 degrees
+plt.xticks(rotation=45)
+
 plt.show()
