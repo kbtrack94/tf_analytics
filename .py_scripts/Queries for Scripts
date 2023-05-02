@@ -1,0 +1,197 @@
+/* TEAM WITH MOST POINTS PER EVENT */
+with all_champs as (
+	select team, score from ncaa_2015_champs nc union all
+	select team, score from ncaa_2016_champs nc2 union all
+	select team, score from ncaa_2017_champs nc3 union all
+	select team, score from ncaa_2018_champs nc4 union all
+	select team, score from ncaa_2019_champs nc5 union all
+	select team, score from ncaa_2021_champs nc6 union all
+	select team, score from ncaa_2022_champs nc7)
+	
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+group by team
+order by total_score desc;
+
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event = '100m'
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event = '200m'
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event = '400m'
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event = '800m'
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event = '110H'
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event = '400H'
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event = '4x1'
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event = '4x4'
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+
+/* LAST QUALIFIER FOR EACH YEAR */
+select season, max(cast(time as numeric)) as last_qualifier 
+from vw_m_100
+where time not in ('DNF', 'DNS', 'FS')
+and qualifier in ('q','Q')
+group by season;
+
+
+/* HURDLE U */
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event in ('110H','400H')
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+/* SPRINT U */
+with all_champs as (
+	select event, round, team, score from ncaa_2015_champs nc union all
+	select event, round, team, score from ncaa_2016_champs nc2 union all
+	select event, round, team, score from ncaa_2017_champs nc3 union all
+	select event, round, team, score from ncaa_2018_champs nc4 union all
+	select event, round, team, score from ncaa_2019_champs nc5 union all
+	select event, round, team, score from ncaa_2021_champs nc6 union all
+	select event, round, team, score from ncaa_2022_champs nc7)
+
+select team, coalesce(sum(score),0) as total_score
+from all_champs
+where event in ('100m','200m','400m')
+and round = 'FINAL'
+group by team
+order by total_score desc;
+
+
+/* Highest Point Scorers */
+select name, coalesce(sum(score),0) as points
+from    (select *  from ncaa_2015_champs nc union all
+        select *  from ncaa_2016_champs nc2 union all
+        select *  from ncaa_2017_champs nc3 union all
+        select *  from ncaa_2018_champs nc4 union all
+        select *  from ncaa_2019_champs nc5 union all
+        select *  from ncaa_2021_champs nc6 union all
+        select *  from ncaa_2022_champs nc7) ncaa
+ where upper(name) <> upper(team)
+        group by name

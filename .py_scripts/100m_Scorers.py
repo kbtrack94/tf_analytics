@@ -42,12 +42,18 @@ cur.close()
 conn.close()
 
 # Create a bar chart using Matplotlib
-plt.bar(teams, scores)
-plt.title("Total Scores by Team for 100m Event")
-plt.xlabel("Team")
-plt.ylabel("Total Score")
+plt.barh(teams, scores)
 
-# Set the rotation angle of the x-axis labels to 45 degrees
-plt.xticks(rotation=45)
+# Get the current Axes object and invert the y-axis
+ax = plt.gca()
+ax.invert_yaxis()
+
+# Add labels for each bar
+for i, score in enumerate(scores):
+    plt.text(score, i, str(score), ha='left', va='center')
+
+plt.title("Total Points by Team in 100m")
+plt.xlabel("Team")
+plt.ylabel("Points")
 
 plt.show()
