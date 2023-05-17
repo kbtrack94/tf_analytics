@@ -264,7 +264,153 @@ ORDER BY CASE
          END,
          time;
 
+CREATE VIEW VW_M_TJ_final as (
+   select * from (
+        select * from M_TJ_final_2015 union all
+        select * from M_TJ_final_2016 union all
+        select * from M_TJ_final_2017 union all
+        select * from M_TJ_final_2018 union all
+        select * from M_TJ_final_2019 union all
+        select * from M_TJ_final_2021 union all
+        select * from M_TJ_final_2022
+) mark
+ORDER BY 
+  CASE 
+    WHEN mark ~ '^[0-9\.]+$' THEN CAST(mark AS FLOAT) 
+    ELSE NULL 
+  END DESC NULLS LAST, 
+  mark asc
+);
 
+CREATE VIEW VW_M_HJ_final as (
+    select * from  (
+        select * from M_HJ_final_2015 union all
+        select * from M_HJ_final_2016 union all
+        select * from M_HJ_final_2017 union all
+        select * from M_HJ_final_2018 union all
+        select * from M_HJ_final_2019 union all
+        select * from M_HJ_final_2021 union all
+        select * from M_HJ_final_2022
+) mark
+ORDER BY 
+  CASE 
+    WHEN mark ~ '^[0-9\.]+$' THEN CAST(mark AS FLOAT) 
+    ELSE NULL 
+  END DESC NULLS LAST, 
+  mark asc
+);
+
+CREATE VIEW VW_M_LJ_final as (
+    select * from (
+        select * from M_LJ_final_2015 union all
+        select * from M_LJ_final_2016 union all
+        select * from M_LJ_final_2017 union all
+        select * from M_LJ_final_2018 union all
+        select * from M_LJ_final_2019 union all
+        select * from M_LJ_final_2021 union all
+        select * from M_LJ_final_2022
+) mark
+ORDER BY 
+  CASE 
+    WHEN mark ~ '^[0-9\.]+$' THEN CAST(mark AS FLOAT) 
+    ELSE NULL 
+  END DESC NULLS LAST, 
+  mark asc
+  );
+
+CREATE VIEW VW_M_SP_final as (
+    select * from (
+        select * from M_SP_final_2015 union all
+        select * from M_SP_final_2016 union all
+        select * from M_SP_final_2017 union all
+        select * from M_SP_final_2018 union all
+        select * from M_SP_final_2019 union all
+        select * from M_SP_final_2021 union all
+        select * from M_SP_final_2022
+) mark
+ORDER BY 
+  CASE 
+    WHEN mark ~ '^[0-9\.]+$' THEN CAST(mark AS FLOAT) 
+    ELSE NULL 
+  END DESC NULLS LAST, 
+  mark asc
+);
+
+CREATE VIEW VW_M_DT_final as (
+    select * from (
+        select * from M_DT_final_2015 union all
+        select * from M_DT_final_2016 union all
+        select * from M_DT_final_2017 union all
+        select * from M_DT_final_2018 union all
+        select * from M_DT_final_2019 union all
+        select * from M_DT_final_2021 union all
+        select * from M_DT_final_2022
+) mark
+ORDER BY 
+  CASE 
+    WHEN mark ~ '^[0-9\.]+$' THEN CAST(mark AS FLOAT) 
+    ELSE NULL 
+  END DESC NULLS LAST, 
+  mark asc
+);
+
+CREATE VIEW VW_M_HT_final as (
+    select * from (    
+        select * from M_HT_final_2015 union all
+        select * from M_HT_final_2016 union all
+        select * from M_HT_final_2017 union all
+        select * from M_HT_final_2018 union all
+        select * from M_HT_final_2019 union all
+        select * from M_HT_final_2021 union all
+        select * from M_HT_final_2022
+) mark
+ORDER BY 
+  CASE 
+    WHEN mark ~ '^[0-9\.]+$' THEN CAST(mark AS FLOAT) 
+    ELSE NULL 
+  END DESC NULLS LAST, 
+  mark asc
+);
+
+CREATE VIEW VW_M_PV_final as (
+    select * from (
+        select * from M_PV_final_2015 union all
+        select * from M_PV_final_2016 union all
+        select * from M_PV_final_2017 union all
+        select * from M_PV_final_2018 union all
+        select * from M_PV_final_2019 union all
+        select * from M_PV_final_2021 union all
+        select * from M_PV_final_2022
+) mark
+ORDER BY 
+  CASE 
+    WHEN mark ~ '^[0-9\.]+$' THEN CAST(mark AS FLOAT) 
+    ELSE NULL 
+  END DESC NULLS LAST, 
+  mark asc
+);
+
+CREATE VIEW VW_M_JT_final as (
+    select * from (
+    select * from M_JT_final_2015 union all
+    select * from M_JT_final_2016 union all
+    select * from M_JT_final_2017 union all
+    select * from M_JT_final_2018 union all
+    select * from M_JT_final_2019 union all
+    select * from M_JT_final_2021 union all
+    select * from M_JT_final_2022
+) mark
+ORDER BY 
+  CASE 
+    WHEN mark ~ '^[0-9\.]+$' THEN CAST(mark AS FLOAT) 
+    ELSE NULL 
+  END DESC NULLS LAST, 
+  mark asc
+  );
+
+
+
+/* ORDERED ADDTIONAL VIEWS */
 select * from (
 	SELECT *, MIN(place) OVER(PARTITION BY TEAM) AS LOWEST_place
 	FROM VW_M_4x4
@@ -289,3 +435,4 @@ where rnum = 1
          ELSE 999999
          END,
          time;
+
