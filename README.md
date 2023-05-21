@@ -6,7 +6,7 @@ To ensure a streamlined and efficient development process, I am leveraging tools
 
 The initial sample size is from the NCAA Men’s Division 1 <b>Outdoor</b> Track and Field Championships Meet for years 2015, 2016, 2017, 2019, 2021, and 2022 results. (Remember, 2020 seasons were cut short due to COVID-19)
 
-Check my repository to see the file setup! Within this database you will be able to see the tables holding data relevant to Events, Seasons, Athletes, Teams, Time, Finals Qualifiers, Reaction Time, Wind Readings, Scorers and more.
+Check my repository to see the file setup! Within this database you will be able to see the setup for more than 300 tables holding data relevant to Events, Seasons, Athletes, Teams, Time, Finals Qualifiers, Reaction Time, Wind Readings, Scorers and more.
   
 Here are some interesting facts/metrics to be revealed in the database:
 - Avg winning time over the last 7 years
