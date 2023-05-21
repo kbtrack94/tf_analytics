@@ -1,10 +1,16 @@
 # tf_analytics
-After years of involvement in athletics as an athlete, fan, and now high school coach, we’ve never had a central hub to efficiently browse through historical data or specific metrics from NCAA Outdoor Track and Field Championship meets results over the years. Currently you have to Google search each individual meet, scroll to find the correct results link, identify the year and event you’re looking for and then repeat in order to compare over the years. 
 
-So I decided to create and maintain a PostgreSQL database to house all the event data and specific metric points that may be of interest to the track and field community to allow for more efficiently comparisons, data browsing, and opportunities to visually see the progression of the evolution of track and field at one of the premier meets across the world. 
+As my first major project and a perfect intersection of my personal and professional interests, I combined my passion for sports and data analysis and embarked on creating the inital phase of my NCAA Track and Field database created in PostgreSQL. This project showcases my proficiency in SQL for database management, and complex querying to product metrics and specific data that may be of interest to the track and field community to allow for more efficient comparisons, data browsing, and eventually opportunities to visually see the progression of the evolution of track and field at one of the premier meets across the world. 
 
-To start, I identified the initial sample size to begin collecting to begin documenting the process and time efforts to produce such a database with the end goal in mind. I decided to collect the data from the NCAA Men’s Division 1 Outdoor Track and Field Championships Meet for the 2015, 2016, 2017, 2019, 2021, and 2022 results. (Remember, NCAA 2020 seasons were cut short due to COVID-19)
+To ensure a streamlined and efficient development process, I am leveraging tools such as VS Code and GitHub for version control. Currently, the database is hosted on my local server for preparation and initial setup, and then will host the database on AWS and integrate it into my personal website. This will enable easy access and collaboration with fellow track and field enthusiasts.
 
-Within this database you will be able to see the tables holding data relevant to Events, Years, Athletes, Teams, Time, Finals Qualifiers, Reaction Time, Wind Reading, and more
+The initial sample size is from the NCAA Men’s Division 1 <b>Outdoor</b> Track and Field Championships Meet for years 2015, 2016, 2017, 2019, 2021, and 2022 results. (Remember, 2020 seasons were cut short due to COVID-19)
 
-
+Check my repository to see the file setup! Within this database you will be able to see the tables holding data relevant to Events, Seasons, Athletes, Teams, Time, Finals Qualifiers, Reaction Time, Wind Readings, Scorers and more.
+  
+Here are some interesting facts/metrics to be revealed in the database:
+- Avg winning time over the last 7 years
+- Avg bubble (last qualifier) times over last 7 years
+- Uncovering the real SprintU, JumpsU, HurdleU, RelayU of NCAA
+- Most combined points scored by University (Men & Women)
+- What event(s) do universities score most in?
