@@ -9,7 +9,7 @@ def execute_sql_files(directory, username, database_name):
             subprocess.run(command, shell=True)
 
 # Usage example
-sql_directory = "/Users/keanebland/Desktop/tf_analytics"  # Replace with the path to the directory containing your SQL files
+sql_directory = "/Users/keanebland/Desktop/tf_analytics/data_inserts"  # Replace with the path to the directory containing your SQL files
 db_username = "tf.admin"  # Replace with your PostgreSQL username
 db_name = "tf_analytics_prd"  # Replace with your PostgreSQL database name
 execute_sql_files(sql_directory, db_username, db_name)
