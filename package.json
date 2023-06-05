@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tf_analytics",
+  "description": "As my first major project and a perfect intersection of my personal and professional interests, I combined my passion for sports and data analysis and embarked on creating the inital phase of my NCAA Track and Field database created in PostgreSQL. This project showcases my proficiency in SQL for database management, and complex querying to product metrics and specific data that may be of interest to the track and field community to allow for more efficient comparisons, data browsing, and eventually opportunities to visually see the progression of the evolution of track and field at one of the premier meets across the world.",
+  "version": "1.0.0",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
