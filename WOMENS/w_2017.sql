@@ -420,6 +420,7 @@ insert into W_SP_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,MARK,FLIGHT
 insert into W_SP_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,MARK,FLIGHT_PL,SCORE) values ('SP','2017','FINAL','22','Nickolette DUNBAR','FR','LSU','15.60','1 (10)',null);
 insert into W_SP_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,MARK,FLIGHT_PL,SCORE) values ('SP','2017','FINAL','23','Brenn FLINT','SO','Utah State','14.60','1 (11)',null);
 insert into W_SP_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,MARK,FLIGHT_PL,SCORE) values ('SP','2017','FINAL',null,'Aaliyah PETE','SR','Colorado St.','FOUL','1',null);
+
 insert into W_4x1_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAIL,REACTION_TIME,Qualifier,HEAT_PL) values ('4x1','2017','SEMIS','1','Florida','Florida','42.91',null,null,'Q','1 (1)');
 insert into W_4x1_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAIL,REACTION_TIME,Qualifier,HEAT_PL) values ('4x1','2017','SEMIS','2','Alabama','Alabama','43.08',null,null,'Q','2 (1)');
 insert into W_4x1_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAIL,REACTION_TIME,Qualifier,HEAT_PL) values ('4x1','2017','SEMIS','3','Arkansas','Arkansas','43.34',null,null,'Q','2 (2)');
