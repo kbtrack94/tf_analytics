@@ -379,9 +379,9 @@ insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',3,'Rachel GLENN','SO','South Carolina','1.86','1 (3)',6);
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',4,'Sanaa BARNES','JR','Villanova','1.83','1 (4)',5);
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',5,'Charity GRIFFITH','JR','Ball State','1.83','1 (5)',4);
-insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',6,'Marguerite LORENZO','SR','Cornell','1.83','1 (6)',3);
+insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',6,'Marguerite LORENZO','SR','Cornell','1.83','1 (6)',2);
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',6,'Jenna ROGERS','FR','Nebraska','1.83','1 (6)',2);
-insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',6,'Nyagoa BAYAK','SO','LSU','1.83','1 (6)',1);
+insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',6,'Nyagoa BAYAK','SO','LSU','1.83','1 (6)',2);
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',9,'Tyra GITTENS','SR','Texas','1.80','1 (9)',null);
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',9,'Cierra TIDWELL','SO','BYU','1.80','1 (9)',null);
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',11,'Elena KULICHENKO','FR','Georgia','1.80','1 (11)',null);

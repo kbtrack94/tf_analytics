@@ -255,7 +255,7 @@ insert into W_4x1_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,TEAM,Time,TIME_DETAI
 insert into W_4x1_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,TEAM,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2015','FINAL','5','LSU','LSU','43.69',null,null,'4');
 insert into W_4x1_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,TEAM,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2015','FINAL','6','Purdue','Purdue','44.55',null,null,'3');
 insert into W_4x1_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,TEAM,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2015','FINAL','7','Mississippi','Mississippi','44.64',null,null,'2');
-insert into W_4x1_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,TEAM,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2015','FINAL',null,'Oregon','Oregon','DQ',null,null,'1');
+insert into W_4x1_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,TEAM,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2015','FINAL',null,'Oregon','Oregon','DQ',null,null,null);
 
 insert into W_1500M_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Time,TIME_DETAIL,SCORE) values ('1500M','2015','FINAL','1','Rhianwedd Price','SO','Miss State','4:09.56',null,'10');
 insert into W_1500M_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Time,TIME_DETAIL,SCORE) values ('1500M','2015','FINAL','2','Shelby Houlihan','SR','Arizona State','4:09.67',null,'8');
@@ -577,8 +577,8 @@ insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight
 insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','4','Akela Jones','JR','Kansas State','1.87','1 (4)','5');
 insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','5','Tatiana Gusin','SO','Georgia','1.84','1 (5)','4');
 insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','6','Claudia Garcia Jou','JR','Akron','1.81','1 (6)','3');
-insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','7','Erika Hurd','JR','Cincinnati','1.81','1 (7)','2');
-insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','7','Marusa Cernjul','SR','Nebraska','1.81','1 (7)','1');
+insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','7','Erika Hurd','JR','Cincinnati','1.81','1 (7)','1.5');
+insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','7','Marusa Cernjul','SR','Nebraska','1.81','1 (7)','1.5');
 insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','9','Jailah Mason','FR','Morgan State','1.81','1 (9)',null);
 insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','10','Chanice Porter','JR','Georgia','1.81','1 (10)',null);
 insert into W_HJ_FINAL_2015 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('HJ','2015','FINAL','11','Whitney Flannel','SR','UTSA','1.81','1 (11)',null);

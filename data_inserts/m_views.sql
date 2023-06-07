@@ -428,6 +428,7 @@ ORDER BY
   
 
 /* ORDERED ADDTIONAL VIEWS */
+/* Fastest time by year */
 select * from (
 	SELECT *, MIN(place) OVER(PARTITION BY TEAM) AS LOWEST_place
 	FROM VW_M_4x4
@@ -435,13 +436,14 @@ select * from (
 where lowest_place = place
 and upper(round) = 'FINAL';
 
-
+/*Fastest time ran by each Team */
 select * from (
 	SELECT *, MIN(TIME) OVER(PARTITION BY TEAM) AS LOWEST_TIME
 	FROM VW_M_4x4
 	) as TEAM_FASTEST
 where lowest_time = time;
 
+/*Fastest time ran at all NCAA's */
 select * from (
 	SELECT *, row_number() OVER(PARTITION BY TEAM) AS rnum
 	FROM VW_M_4x4

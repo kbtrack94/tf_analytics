@@ -374,14 +374,14 @@ insert into W_SP_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight
 insert into W_SP_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('SP','2018','FINAL',null,'Lauren EVANS','SR','North Carolina St.','FOUL','2',null);
 
 insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','1','Alexus HENRY','JR','UT-Arlington','1.82','1 (1)','10');
-insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','2','Erinn BEATTIE','JR','UC Davis','1.82','1 (2)','8');
-insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','2','Loretta BLAUT','JR','Cincinnati','1.82','1 (2)','6');
-insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','4','Shelley SPIRES','SR','Air Force','1.78','1 (4)','5');
-insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','4','Megan MCCLOSKEY','SR','Penn State','1.78','1 (4)','4');
+insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','2','Erinn BEATTIE','JR','UC Davis','1.82','1 (2)','7');
+insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','2','Loretta BLAUT','JR','Cincinnati','1.82','1 (2)','7');
+insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','4','Shelley SPIRES','SR','Air Force','1.78','1 (4)','4.5');
+insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','4','Megan MCCLOSKEY','SR','Penn State','1.78','1 (4)','4.5');
 insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','6','Zarriea WILLIS','JR','Texas Tech','1.78','1 (6)','3');
 insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','7','Tatiana GUSIN','SR','Georgia','1.78','1 (7)','2');
-insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','8','Andrea STAPLETON','JR','BYU','1.78','1 (8)','1');
-insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','8','Stephanie AHRENS','SR','Nebraska-Omaha','1.78','1 (8)',null);
+insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','8','Andrea STAPLETON','JR','BYU','1.78','1 (8)','0.5');
+insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','8','Stephanie AHRENS','SR','Nebraska-Omaha','1.78','1 (8)','0.5');
 insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','10','Ellen EKHOLM','SO','Kentucky','1.78','1 (10)',null);
 insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','10','Regan LEWIS','JR','Ball State','1.78','1 (10)',null);
 insert into W_HJ_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ','2018','FINAL','12','LaTyria JEFFERSON','JR','Kansas','1.73','1 (12)',null);
@@ -510,23 +510,23 @@ insert into W_400M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time
 insert into W_400M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Reaction_Time,Score) values ('400M','2018','FINAL','7','Rachel MISHER','JR','LSU','52.23',null,null,'2');
 insert into W_400M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Reaction_Time,Score) values ('400M','2018','FINAL','8','Makenzie DUNMORE','SO','Oregon','1:49.13',null,null,'1');
 
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','1','Sammy WATSON','FR','Texas A&M','2:04.21',null,'10');
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','2','Abike EGBENIYI','JR','Mid. Tenn. State','2:04.33',null,'8');
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','3','Ashley TAYLOR','SR','Northern Arizona','2:05.01',null,'6');
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','4','Siofra CLEIRIGH BUTTNER','SR','Villanova','2:05.73',null,'5');
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','5','Olivia BAKER','SR','Stanford','2:06.18',null,'4');
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','6','Martha BISSAH','SO','Norfolk State','2:06.79',null,'3');
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','7','Sabrina SOUTHERLAND','SR','Oregon','2:06.99',null,'2');
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','8','Jazmine FRAY','JR','Texas A&M','2:07.34',null,'1');
+insert into W_800M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','1','Sammy WATSON','FR','Texas A&M','2:04.21',null,'10');
+insert into W_800M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','2','Abike EGBENIYI','JR','Mid. Tenn. State','2:04.33',null,'8');
+insert into W_800M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','3','Ashley TAYLOR','SR','Northern Arizona','2:05.01',null,'6');
+insert into W_800M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','4','Siofra CLEIRIGH BUTTNER','SR','Villanova','2:05.73',null,'5');
+insert into W_800M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','5','Olivia BAKER','SR','Stanford','2:06.18',null,'4');
+insert into W_800M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','6','Martha BISSAH','SO','Norfolk State','2:06.79',null,'3');
+insert into W_800M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','7','Sabrina SOUTHERLAND','SR','Oregon','2:06.99',null,'2');
+insert into W_800M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,Score) values ('800M','2018','FINAL','8','Jazmine FRAY','JR','Texas A&M','2:07.34',null,'1');
 
-insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','1','Sydney MCLAUGHLIN','FR','Kentucky','53.96',null,null,'10');
-insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','2','Anna COCKRELL','SO','USC','55.71',null,null,'8');
-insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','3','Kymber PAYNE','SR','LSU','56.88',null,null,'6');
-insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','4','Symone BLACK','SR','Purdue','57.22',null,null,'5');
-insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','5','Ranae MCKENZIE','JR','Kansas State','57.67',null,null,'4');
-insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','6','Nikki STEPHENS','FR','Florida','57.8',null,null,'3');
-insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','7','Emma SPAGNOLA','SR','Minnesota','58.61',null,null,'2');
-insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','8','Ariel JONES','SR','Texas','59.92',null,null,'1');
+insert into W_400H_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','1','Sydney MCLAUGHLIN','FR','Kentucky','53.96',null,null,'10');
+insert into W_400H_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','2','Anna COCKRELL','SO','USC','55.71',null,null,'8');
+insert into W_400H_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','3','Kymber PAYNE','SR','LSU','56.88',null,null,'6');
+insert into W_400H_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','4','Symone BLACK','SR','Purdue','57.22',null,null,'5');
+insert into W_400H_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','5','Ranae MCKENZIE','JR','Kansas State','57.67',null,null,'4');
+insert into W_400H_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','6','Nikki STEPHENS','FR','Florida','57.8',null,null,'3');
+insert into W_400H_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','7','Emma SPAGNOLA','SR','Minnesota','58.61',null,null,'2');
+insert into W_400H_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,Time_Detail,REACTION_TIME,Score) values ('400H','2018','FINAL','8','Ariel JONES','SR','Texas','59.92',null,null,'1');
 
 insert into W_200M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,Wind,Score) values ('200M','2018','FINAL','1','Anglerne ANNELUS','SO','USC','22.76',null,null,'-2.3','10');
 insert into W_200M_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,Wind,Score) values ('200M','2018','FINAL','2','Gabrielle THOMAS','JR','Harvard','22.86',null,null,'-2.3','8');
@@ -562,14 +562,14 @@ insert into W_5K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_D
 insert into W_5K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,SCORE) values ('5K','2018','FINAL','23','Hannah STEELMAN','FR','Wofford','16:09.63',null,null);
 insert into W_5K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,SCORE) values ('5K','2018','FINAL','24','Bailey DAVIS','JR','Louisville','16:36.04',null,null);
 
-insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2018','FINAL','1','Sharon LOKEDI','JR','Kansas','32:09.20',null);
-insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2019','FINAL','2','Dorcas WASIKE','FR','Louisville','32:11.81',null);
-insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2020','FINAL','3','Karissa SCHWEIZER','SR','Missouri','32:14.94',null);
-insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2021','FINAL','4','Alice WRIGHT','SR','New Mexico','32:17.92',null);
-insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2022','FINAL','5','Charlotte TAYLOR','SR','San Francisco','32:17.95',null);
-insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2023','FINAL','6','Anna ROHRER','SO','Notre Dame','32:26.24',null);
-insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2024','FINAL','7','Kaitlyn BENNER','JR','Colorado','33:13.38',null);
-insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2025','FINAL','8','Jaci SMITH','JR','Air Force','33:14.00',null);
+insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2018','FINAL','1','Sharon LOKEDI','JR','Kansas','32:09.20','10');
+insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2018','FINAL','2','Dorcas WASIKE','FR','Louisville','32:11.81','8');
+insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2020','FINAL','3','Karissa SCHWEIZER','SR','Missouri','32:14.94','6');
+insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2021','FINAL','4','Alice WRIGHT','SR','New Mexico','32:17.92','5');
+insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2022','FINAL','5','Charlotte TAYLOR','SR','San Francisco','32:17.95','4');
+insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2023','FINAL','6','Anna ROHRER','SO','Notre Dame','32:26.24','3');
+insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2024','FINAL','7','Kaitlyn BENNER','JR','Colorado','33:13.38','2');
+insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2025','FINAL','8','Jaci SMITH','JR','Air Force','33:14.00','1');
 insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2026','FINAL','9','Erin CLARK','SR','Colorado','33:20.46',null);
 insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2027','FINAL','10','Weronika PYZIK','JR','San Francisco','33:27.29',null);
 insert into W_10K_FINAL_2018 (EVENT,SEASON,ROUND,Place,Name,YEAR,Team,Time,Time_Detail) values ('10K','2028','FINAL','11','Makena MORLEY','SO','Colorado','33:28.66',null);

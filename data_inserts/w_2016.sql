@@ -305,7 +305,7 @@ insert into W_4x1_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAI
 insert into W_4x1_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2016','FINAL','5','Kentucky','Kentucky','43.02',null,null,'4');
 insert into W_4x1_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2016','FINAL','6','San Diego State','San Diego State','43.68',null,null,'3');
 insert into W_4x1_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2016','FINAL','7','Florida','Florida','44.11',null,null,'2');
-insert into W_4x1_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2016','FINAL',null,'Tennessee','Tennessee','DNF',null,null,'1');
+insert into W_4x1_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Team,Time,TIME_DETAIL,REACTION_TIME,SCORE) values ('4x1','2016','FINAL',null,'Tennessee','Tennessee','DNF',null,null,null);
 
 insert into W_1500M_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,SCORE) values ('1500M','2016','FINAL','1','Marta Freitas','SR','Miss State','4:09.53',null,'10');
 insert into W_1500M_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,SCORE) values ('1500M','2016','FINAL','2','Elise Cranny','SO','Stanford','4:09.54',null,'8');
@@ -340,7 +340,7 @@ insert into W_100H_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME
 insert into W_100H_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,WIND,SCORE) values ('100H','2016','FINAL','5','Alexis Perry','SR','North Carolina St.','12.87',null,null,'3.8','4');
 insert into W_100H_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,WIND,SCORE) values ('100H','2016','FINAL','6','Chanice Chase','SR','LSU','12.90',null,null,'3.8','3');
 insert into W_100H_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,WIND,SCORE) values ('100H','2016','FINAL','7','Danielle Demas','SR','Sam Houston St.','17.10',null,null,'3.8','2');
-insert into W_100H_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,WIND,SCORE) values ('100H','2016','FINAL',null,'Pedrya Seymour','JR','Illinois','DNF',null,null,null,'1');
+insert into W_100H_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,WIND,SCORE) values ('100H','2016','FINAL',null,'Pedrya Seymour','JR','Illinois','DNF',null,null,null,null);
 
 insert into W_100M_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,WIND,SCORE) values ('100M','2016','FINAL','1','Ariana Washington','FR','Oregon','10.95',null,null,'2.6','10');
 insert into W_100M_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Time,TIME_DETAIL,REACTION_TIME,WIND,SCORE) values ('100M','2016','FINAL','2','Ashley Henderson','SO','San Diego State','10.96',null,null,'2.6','8');
@@ -522,14 +522,14 @@ insert into W_JT_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,MARK,Flight
 insert into W_JT_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,MARK,Flight_Pl,SCORE) values ('JT','2016','FINAL','24','Alyssa Kopp','JR','Auburn','44.59','1 (12)',null);
 
 insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','1','Alexis Weeks','FR','Arkansas','4.50','1 (1)','10');
-insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','2','Alysha Newman','SR','Miami','4.30','1 (2)','8');
-insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','2','Morgann Leleux','SR','UL-Lafayette','4.30','1 (2)','6');
+insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','2','Alysha Newman','SR','Miami','4.30','1 (2)','7');
+insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','2','Morgann Leleux','SR','UL-Lafayette','4.30','1 (2)','7');
 insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','4','Sydney Clute','JR','Indiana','4.30','1 (4)','5');
 insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','5','Megan Clark','SR','Duke','4.30','1 (5)','4');
 insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','6','Jessica Harter','SR','Purdue','4.20','1 (6)','3');
-insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','7','Kally Long','SO','Texas','4.20','1 (7)','2');
+insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','7','Kally Long','SO','Texas','4.20','1 (7)','1');
 insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','7','Alyssa Applebee','JR','Missouri','4.20','1 (7)','1');
-insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','7','Caroline Hasse','SR','Akron','4.20','1 (7)',null);
+insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','7','Caroline Hasse','SR','Akron','4.20','1 (7)','1');
 insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','10','Carolina Carmichael','SR','Memphis','4.20','1 (10)',null);
 insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','11','Annie Rhodes','JR','Baylor','4.05','1 (11)',null);
 insert into W_PV_FINAL_2016 (EVENT,SEASON,ROUND,Place,Name,Year,TEAM,Mark,Flight_Pl,SCORE) values ('PV','2016','FINAL','11','Lauren Chorny','SR','Michigan State','4.05','1 (11)',null);
