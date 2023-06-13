@@ -487,7 +487,7 @@ insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,F
 insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2019,'FINAL',13,'Charles BROWN','SR','Texas Tech','7.70','3.1','2 (9)',null);
 insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2019,'FINAL',14,'Carter SHELL','SO','Arkansas State','7.67','2.8','1 (5)',null);
 insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2019,'FINAL',15,'Samory FRAGA','SR','Kent State','7.65','2.7','1 (6)',null);
-insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2019,'FINAL',16,'RnullLazon BRUMFIELD','SO','Tennessee St.','7.62','1.6','1 (7)',null);
+insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2019,'FINAL',16,'R''Lazon BRUMFIELD','SO','Tennessee St.','7.62','1.6','1 (7)',null);
 insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2019,'FINAL',17,'Allen GORDON','SO','Ole Miss','7.61','1.4','1 (8)',null);
 insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2019,'FINAL',18,'Kenan JONES','FR','LSU','7.54','1.7','2 (10)',null);
 insert into m_LJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2019,'FINAL',19,'Jullane WALKER','JR','Kansas State','7.44','2.0','2 (11)',null);
@@ -501,11 +501,11 @@ insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,F
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',2,'Jordan SCOTT','JR','Virginia','17.01','1.0','2 (7)','8');
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',3,'Armani WALLACE','SR','Florida State','16.99','1.1','2 (5)','6');
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',4,'John WARREN','SR','Southern Miss.','16.78','1.2','2 (4)','5');
-insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',5,'OnullBrien WASOME','JR','Texas','16.71','2.6','2 (2)','4');
+insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',5,'O''Brien WASOME','JR','Texas','16.71','2.6','2 (2)','4');
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',6,'Odaine LEWIS','SR','Texas Tech','16.70','1.4','2 (3)','3');
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',7,'Eric BETHEA','SR','Indiana','16.65','0.9','1 (1)','2');
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',8,'Tuomas KAUKOLAHTI','JR','California','16.50','0.9','2 (6)','1');
-insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',9,'Adenull MASON','JR','Oklahoma','16.38','1.2','1 (2)',null);
+insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',9,'Ade'' MASON','JR','Oklahoma','16.38','1.2','1 (2)',null);
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',10,'Treyvon FERGUSON','FR','Kansas','16.18','2.0','1 (3)',null);
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',11,'RnullLazon BRUMFIELD','SO','Tennessee St.','16.14','1.4','2 (8)',null);
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',12,'Jah STRANGE','JR','Purdue','16.03','1.1','2 (9)',null);
