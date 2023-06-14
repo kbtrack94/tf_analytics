@@ -22,7 +22,7 @@ insert into W_100M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME
 insert into W_100M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl,Wind) values ('100m',2022,'SEMIS',21,'Jasmine MONTGOMERY','FR','Oregon','11.37',null,null,null,'1 (7)',0.6);
 insert into W_100M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl,Wind) values ('100m',2022,'SEMIS',22,'Anavia BATTLE','SR','Ohio State','11.43',null,null,null,'1 (8)',0.6);
 insert into W_100M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl,Wind) values ('100m',2022,'SEMIS',23,'Symone MASON','SR','LSU','11.51',null,null,null,'3 (7)',0.4);
-insert into W_100M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl,Wind) values ('100m',2022,'SEMIS',24,'Alfreda STEELE','SR','Miami (Fla.)','11.52',null,null,null,'3 (8)',0.4);
+insert into W_100M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl,Wind) values ('100m',2022,'SEMIS',24,'Alfreda STEELE','SR','Miami','11.52',null,null,null,'3 (8)',0.4);
 
 insert into W_200M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl,Wind) values ('200m',2022,'SEMIS',1,'Abby STEINER','JR','Kentucky','22.02',null,null,'Q','3 (1)',0.5);
 insert into W_200M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl,Wind) values ('200m',2022,'SEMIS',2,'Favour OFILI','SO','LSU','22.13',null,null,'Q','2 (1)',-0.2);
@@ -89,7 +89,7 @@ insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME
 insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl) values ('400m',2022,'SEMIS',13,'Taylor MANSON','SR','Florida','51.65',null,null,null,'2 (4)');
 insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl) values ('400m',2022,'SEMIS',14,'Tierra ROBINSON-JONES','JR','Texas A&M','51.73','51.724',null,null,'3 (6)');
 insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl) values ('400m',2022,'SEMIS',15,'Megan MOSS','SO','Kentucky','51.73','51.725',null,null,'1 (5)');
-insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl) values ('400m',2022,'SEMIS',16,'Moriah OLIVEIRA','SO','Miami (Fla.)','51.76',null,null,null,'2 (5)');
+insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl) values ('400m',2022,'SEMIS',16,'Moriah OLIVEIRA','SO','Miami','51.76',null,null,null,'2 (5)');
 insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl) values ('400m',2022,'SEMIS',17,'Caitlyn BOBB','FR','UMBC','51.84',null,null,null,'3 (7)');
 insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl) values ('400m',2022,'SEMIS',18,'Bailey LEAR','SR','USC','51.87',null,null,null,'2 (6)');
 insert into W_400M_SEMIS_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Time,TIME_DETAIL,Reaction_Time,Qualifier,Heat_Pl) values ('400m',2022,'SEMIS',19,'Ziyah HOLMAN','SO','Michigan','51.89','51.881',null,null,'1 (6)');
@@ -310,7 +310,7 @@ insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight
 insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HT',2022,'FINAL',9,'Jillian SHIPPEE','SR','North Carolina','68.36','2 (6)',null);
 insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HT',2022,'FINAL',10,'Rachel TANCZOS','SR','Notre Dame','67.35','1 (4)',null);
 insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HT',2022,'FINAL',11,'Lauren JONES','SR','Oklahoma','66.95','2 (7)',null);
-insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HT',2022,'FINAL',12,'Debbie AJAGBE','SR','Miami (Fla.)','66.59','1 (5)',null);
+insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HT',2022,'FINAL',12,'Debbie AJAGBE','SR','Miami','66.59','1 (5)',null);
 insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HT',2022,'FINAL',13,'Kaila BUTLER','SR','Bowling Green','66.13','2 (8)',null);
 insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HT',2022,'FINAL',14,'Tara SIMPSON-SULLIVAN','SO','Rice','65.86','2 (9)',null);
 insert into W_HT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HT',2022,'FINAL',15,'Amy PHILLIPS','SR','North Dakota State','65.53','2 (10)',null);
@@ -372,7 +372,7 @@ insert into W_SP_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight
 insert into W_SP_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('SP',2022,'FINAL',21,'Abby MOORE','JR','Oklahoma','16.30','1 (12)',null);
 insert into W_SP_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('SP',2022,'FINAL',22,'Jasmine MITCHELL','JR','Ole Miss','16.25','2 (10)',null);
 insert into W_SP_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('SP',2022,'FINAL',23,'Alyssa WILSON','SR','Texas State','16.08','2 (11)',null);
-insert into W_SP_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('SP',2022,'FINAL',24,'Debbie AJAGBE','SR','Miami (Fla.)','15.09','2 (12)',null);
+insert into W_SP_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('SP',2022,'FINAL',24,'Debbie AJAGBE','SR','Miami','15.09','2 (12)',null);
 
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',1,'Lamara DISTIN','JR','Texas A&M','1.95','1 (1)',10);
 insert into W_HJ_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('HJ',2022,'FINAL',2,'Abigail KWARTENG','SR','Mid. Tenn. State','1.92','1 (2)',8);
@@ -405,7 +405,7 @@ insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight
 insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('DT',2022,'FINAL',4,'Lauren JONES','SR','Oklahoma','55.45','2 (3)',5);
 insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('DT',2022,'FINAL',5,'Seasons USUAL','SR','Texas Tech','55.36','1 (2)',4);
 insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('DT',2022,'FINAL',6,'Shelby FRANK','FR','Minnesota','54.87','2 (4)',3);
-insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('DT',2022,'FINAL',7,'Debbie AJAGBE','SR','Miami (Fla.)','54.63','1 (3)',2);
+insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('DT',2022,'FINAL',7,'Debbie AJAGBE','SR','Miami','54.63','1 (3)',2);
 insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('DT',2022,'FINAL',8,'Emily MARCH','JR','Iowa State','54.35','1 (4)',1);
 insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('DT',2022,'FINAL',9,'Jaida ROSS','SO','Oregon','53.84','1 (5)',null);
 insert into W_DT_FINAL_2022 (EVENT,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Flight_Pl,Score) values ('DT',2022,'FINAL',10,'Divine OLADIPO','SR','Vanderbilt','53.74','2 (5)',null);

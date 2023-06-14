@@ -67,7 +67,7 @@ insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,T
 insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,TIME_DETAIL,Qualifier,Heat_Pl) values ('3000mSC','2017','SEMIS','17','Claire BORCHERS','JR','Michigan','10:07.35',null,null,'2 (10)');
 insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,TIME_DETAIL,Qualifier,Heat_Pl) values ('3000mSC','2017','SEMIS','18','Taylor AUSTIN','JR','Indiana State','10:11.63',null,null,'2 (11)');
 insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,TIME_DETAIL,Qualifier,Heat_Pl) values ('3000mSC','2017','SEMIS','19','Amy CASHIN','JR','West Virginia','10:11.86',null,null,'1 (8)');
-insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,TIME_DETAIL,Qualifier,Heat_Pl) values ('3000mSC','2017','SEMIS','20','Taylor JANSSEN','SR','N. Dakota St.','10:17.40',null,null,'1 (9)');
+insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,TIME_DETAIL,Qualifier,Heat_Pl) values ('3000mSC','2017','SEMIS','20','Taylor JANSSEN','SR','North Dakota St.','10:17.40',null,null,'1 (9)');
 insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,TIME_DETAIL,Qualifier,Heat_Pl) values ('3000mSC','2017','SEMIS','21','Audra DESTEFANO','SR','Wyoming','10:20.50',null,null,'1 (10)');
 insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,TIME_DETAIL,Qualifier,Heat_Pl) values ('3000mSC','2017','SEMIS','22','Sage HURTA','FR','Colorado','10:20.59',null,null,'1 (11)');
 insert into W_3000mSC_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,TIME,TIME_DETAIL,Qualifier,Heat_Pl) values ('3000mSC','2017','SEMIS','23','Shelby BROWN','JR','Ole Miss','10:24.05',null,null,'1 (12)');
@@ -239,7 +239,7 @@ insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAI
 insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAIL,REACTION_TIME,Qualifier,Heat_Pl) values ('4x4','2017','SEMIS','14','Clemson','Clemson','3:35.89',null,null,null,'2 (5)');
 insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAIL,REACTION_TIME,Qualifier,Heat_Pl) values ('4x4','2017','SEMIS','15','Cincinnati','Cincinnati','3:35.96',null,null,null,'1 (5)');
 insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAIL,REACTION_TIME,Qualifier,Heat_Pl) values ('4x4','2017','SEMIS','16','Duke','Duke','3:37.25',null,null,null,'2 (6)');
-insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAIL,REACTION_TIME,Qualifier,Heat_Pl) values ('4x4','2017','SEMIS','17','N. Dakota St.','N. Dakota St.','3:38.44',null,null,null,'1 (6)');
+insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAIL,REACTION_TIME,Qualifier,Heat_Pl) values ('4x4','2017','SEMIS','17','North Dakota St.','North Dakota St.','3:38.44',null,null,null,'1 (6)');
 insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAIL,REACTION_TIME,Qualifier,Heat_Pl) values ('4x4','2017','SEMIS','18','Kansas','Kansas','3:38.57',null,null,null,'2 (7)');
 insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAIL,REACTION_TIME,Qualifier,Heat_Pl) values ('4x4','2017','SEMIS','19','Texas Tech','Texas Tech','3:39.16',null,null,null,'3 (6)');
 insert into W_4x4_SEMIS_2017 (EVENT,SEASON,ROUND,Place,Name,TEAM,TIME,TIME_DETAIL,REACTION_TIME,Qualifier,Heat_Pl) values ('4x4','2017','SEMIS','20','Virginia Tech','Virginia Tech','3:39.27',null,null,null,'2 (8)');
@@ -435,7 +435,7 @@ insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,F
 insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,FLIGHT_PL,SCORE) values ('LJ','2017','FINAL','12','Destiny CARTER','SR','Kentucky','6.25','-1.3','1 (2)',null);
 insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,FLIGHT_PL,SCORE) values ('LJ','2017','FINAL','13','Allanah MCCORKLE','SR','Iowa State','6.16','0.7','1 (3)',null);
 insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,FLIGHT_PL,SCORE) values ('LJ','2017','FINAL','14','Nataliyah FRIAR','SR','LSU','6.12','-0.3','1 (4)',null);
-insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,FLIGHT_PL,SCORE) values ('LJ','2017','FINAL','15','Rose JACKSON','SR','N. Dakota St.','6.07','-1.1','1 (5)',null);
+insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,FLIGHT_PL,SCORE) values ('LJ','2017','FINAL','15','Rose JACKSON','SR','North Dakota St.','6.07','-1.1','1 (5)',null);
 insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,FLIGHT_PL,SCORE) values ('LJ','2017','FINAL','16','Jahisha THOMAS','JR','Iowa','6.04','-0.8','1 (6)',null);
 insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,FLIGHT_PL,SCORE) values ('LJ','2017','FINAL','17','Yanis DAVID','SO','Florida','6.01','-1.1','1 (7)',null);
 insert into W_LJ_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,MARK,WIND,FLIGHT_PL,SCORE) values ('LJ','2017','FINAL','18','Leah LOTT','SR','Miss State','6.01','0.0','1 (8)',null);
@@ -518,7 +518,7 @@ insert into W_DT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT
 insert into W_DT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('DT','2017','FINAL','19','Calea CARR','JR','Arkansas State','49.86','1 (8)',null);
 insert into W_DT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('DT','2017','FINAL','20','Ieva ZARANKAITE','SR','Oklahoma State','49.70','1 (9)',null);
 insert into W_DT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('DT','2017','FINAL','21','Bryanna HAMES','JR','Elon','49.32','1 (10)',null);
-insert into W_DT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('DT','2017','FINAL','22','Katelyn WEIMERSKIRCH','SR','N. Dakota St.','48.15','1 (11)',null);
+insert into W_DT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('DT','2017','FINAL','22','Katelyn WEIMERSKIRCH','SR','North Dakota St.','48.15','1 (11)',null);
 insert into W_DT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('DT','2017','FINAL','23','Nikki OKWELOGU','SR','Harvard','43.85','2 (12)',null);
 insert into W_DT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('DT','2017','FINAL',null,'Serena BROWN','FR','Texas A&M','FOUL','1',null);
 
@@ -533,7 +533,7 @@ insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT
 insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT_PL,SCORE) values ('JT','2017','FINAL','9','Kayli FARMER','JR','New Mexico St.','52.70','1 (3)',null);
 insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT_PL,SCORE) values ('JT','2017','FINAL','10','Zaybree HAURY','SR','UCLA','51.90','1 (5)',null);
 insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT_PL,SCORE) values ('JT','2017','FINAL','11','Vanja SPAIC','SO','Fresno State','51.55','1 (6)',null);
-insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT_PL,SCORE) values ('JT','2017','FINAL','12','Alyssa OLIN','SO','N. Dakota St.','51.34','2 (6)',null);
+insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT_PL,SCORE) values ('JT','2017','FINAL','12','Alyssa OLIN','SO','North Dakota St.','51.34','2 (6)',null);
 insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT_PL,SCORE) values ('JT','2017','FINAL','13','Samantha ZELDEN','FR','Alabama','51.31','2 (7)',null);
 insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT_PL,SCORE) values ('JT','2017','FINAL','14','Brittni WOLCZYK','SO','Nebraska','50.86','2 (8)',null);
 insert into W_JT_FINAL_2017 (EVENT,SEASON,ROUND,Place,NAME,YEAR,TEAM,Mark,FLIGHT_PL,SCORE) values ('JT','2017','FINAL','15','Shaylyn STALLBAUMER','SO','Kansas','50.53','2 (9)',null);
@@ -583,7 +583,7 @@ insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','9','Pavla KUKLOVA','SO','Virginia Tech','63.45','2 (7)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','10','Janeah STEWART','JR','Ole Miss','63.30','1 (3)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','11','Monique GRIFFITHS','SR','Cal St. Northridge','63.24','2 (8)',null);
-insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','12','Molli DETLOFF','JR','N. Dakota','63.07','2 (9)',null);
+insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','12','Molli DETLOFF','JR','North Dakota','63.07','2 (9)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','13','LaPorscha WELLS','SR','Georgia State','62.87','2 (10)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','14','Alison ONDRUSEK','SR','Texas A&M','62.60','1 (4)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','15','Helene INGVALDSEN','FR','Kansas State','62.30','1 (5)',null);
@@ -591,7 +591,7 @@ insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','17','Martha SZEKELY','SR','Miami (Ohio)','61.00','1 (6)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','18','Temi OGUNRINDE','SO','Minnesota','60.75','1 (7)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','19','Linnea JONSSON','SO','Colorado St.','60.44','1 (8)',null);
-insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','20','Katelyn WEIMERSKIRCH','SR','N. Dakota St.','60.23','2 (12)',null);
+insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','20','Katelyn WEIMERSKIRCH','SR','North Dakota St.','60.23','2 (12)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','21','Angie GUENTHER','SR','Minnesota','60.06','1 (9)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL','22','Leia MISTOWSKI','JR','William and Mary','59.52','1 (10)',null);
 insert into W_HT_FINAL_2017 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,FLIGHT_PL,SCORE) values ('HT','2017','FINAL',null,'Andin FOSAM','JR','Pittsburgh','FOUL','1',null);

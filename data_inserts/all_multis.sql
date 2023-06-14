@@ -318,7 +318,7 @@ insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCO
 insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCORE) values ('DEC','2021','FINAL','18','Jordan Torney','JR','Connecticut','6230',null);
 insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCORE) values ('DEC','2021','FINAL',null,'Asani Hylton','JR','Stephen F. Austin','DNF',null);
 insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCORE) values ('DEC','2021','FINAL',null,'Daniel Spejcher','SO','Arkansas','DNF',null);
-insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCORE) values ('DEC','2021','FINAL',null,'Damien Berthenet','SR','Cinncinnati','DNF',null);
+insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCORE) values ('DEC','2021','FINAL',null,'Damien Berthenet','SR','Cincinnati','DNF',null);
 insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCORE) values ('DEC','2021','FINAL',null,'Austin West','FR','Iowa','DNF',null);
 insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCORE) values ('DEC','2021','FINAL',null,'Jack Turner','FR','UTSA','DNF',null);
 insert into M_DEC_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,POINTS,SCORE) values ('DEC','2021','FINAL',null,'Scott Boon','JR','Houston Baptist','DNF',null);

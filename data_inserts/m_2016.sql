@@ -408,7 +408,7 @@ insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,F
 insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2016,'FINAL',8,'Zack Bazile','SO','Ohio State','7.58',-1.2,'2 (3)','1');
 insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2016,'FINAL',9,'Andreas Trajkovski','JR','Arkansas','7.58',-1.9,'1 (2)',null);
 insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2016,'FINAL',10,'Terrell McClain','SO','Akron','7.48',0.4,'1 (3)',null);
-insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2016,'FINAL',11,'Julian Harvey','JR','SIU-Edwardsville','7.47',-0.7,'1 (4)',null);
+insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2016,'FINAL',11,'Julian Harvey','JR','SIU Edwardsville','7.47',-0.7,'1 (4)',null);
 insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2016,'FINAL',12,'Fred Dorsey','SO','Kentucky','7.47',0.4,'1 (5)',null);
 insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2016,'FINAL',13,'Steffin McCarter','FR','Texas','7.45',-0.6,'2 (8)',null);
 insert into m_LJ_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2016,'FINAL',14,'Charles Brown','FR','Texas Tech','7.43',-0.9,'1 (6)',null);
@@ -510,7 +510,7 @@ insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight
 insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HT',2016,'FINAL',10,'Tomas Kruzliak','SR','Virginia Tech','68.32','1 (2)',null);
 insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HT',2016,'FINAL',11,'Denzel Comenentia','FR','Georgia','68.21','2 (9)',null);
 insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HT',2016,'FINAL',12,'Elias Hakansson','JR','Alabama','67.11','1 (3)',null);
-insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HT',2016,'FINAL',13,'Conner Neu','SR','Youngstown State','66.33','1 (4)',null);
+insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HT',2016,'FINAL',13,'Conner Neu','SR','Youngstown St.','66.33','1 (4)',null);
 insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HT',2016,'FINAL',14,'Adam Kelly','FR','Princeton','65.82','1 (5)',null);
 insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HT',2016,'FINAL',15,'Justin Baker','SR','Northern Iowa','65.76','2 (10)',null);
 insert into m_HT_final_2016 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HT',2016,'FINAL',16,'Renaldo Frechou','SR','South Alabama','65.66','1 (6)',null);

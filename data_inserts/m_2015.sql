@@ -402,7 +402,7 @@ insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,F
 insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2015,'FINAL','3','Roelf Pienaar','SO','Arkansas State','8.01','+1.6','2 (2)','6');
 insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2015,'FINAL','4','Jonathan Addison','JR','North Carolina St.','7.99','+2.3','2 (3)','5');
 insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2015,'FINAL','5','Adoree Jackson','FR','USC','7.91','+1.9','2 (4)','4');
-insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2015,'FINAL','6','Laderrick Ward','SR','SIU-Edwardsville','7.82','+2.5','1 (2)','3');
+insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2015,'FINAL','6','Laderrick Ward','SR','SIU Edwardsville','7.82','+2.5','1 (2)','3');
 insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2015,'FINAL','7','Walter Jones','FR','California','7.79','+1.9','1 (3)','2');
 insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2015,'FINAL','8','Ventavius Sears','SO','Western Kentucky','7.76','+1.9','1 (4)','1');
 insert into m_LJ_final_2015 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('LJ',2015,'FINAL','9','Cameron Echols-Luper','SO','TCU','7.73','+2.0','1 (5)',null);
