@@ -98,12 +98,12 @@ insert into W_100H_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time
 insert into W_100H_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100H','2019','SEMIS','23','Milan YOUNG','SO','LSU','14.25',null,null,'3 (8)','0.177','0.8');
 insert into W_100H_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100H','2019','SEMIS',null,'Faith ROSS','JR','Kentucky','FS',null,null,'2',null,null);
 
-insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','1','ShanullCarri RICHARDSON','FR','LSU','10.99',null,'Q','2 (1)','0.184','0.6');
+insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','1','Sha''Carri RICHARDSON','FR','LSU','10.99',null,'Q','2 (1)','0.184','0.6');
 insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','2','Kayla WHITE','SR','N. Carolina A&T','11.01',null,'Q','2 (2)','0.151','0.6');
 insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','3','Teahna DANIELS','SR','Texas','11.05',null,'Q','3 (1)','0.158','0.5');
 insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','4','Anglerne ANNELUS','JR','USC','11.06',null,'Q','1 (1)','0.208','0.6');
 insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','5','Twanisha TERRY','SO','USC','11.08',null,'Q','1 (2)','0.166','0.6');
-insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','6','KanullTia SEYMOUR','SO','Florida State','11.11',null,'q','1 (3)','0.176','0.6');
+insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','6','Ka''Tia SEYMOUR','SO','Florida State','11.11',null,'q','1 (3)','0.176','0.6');
 insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','7','Kiara PARKER','SR','Arkansas','11.14',null,'q','1 (4)','0.167','0.6');
 insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','8','Kiara GRANT','SO','Norfolk State','11.16','11.153','Q','3 (2)','0.184','0.5');
 insert into W_100M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('100m','2019','SEMIS','9','Lanae-Tava THOMAS','FR','USC','11.16','11.158',null,'2 (3)','0.185','0.6');
@@ -132,7 +132,7 @@ insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time
 insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400m','2019','SEMIS','7','Kethlin CAMPBELL','SO','Arkansas','51.95',null,'Q','3 (2)','0.213');
 insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400m','2019','SEMIS','8','Hannah WALLER','JR','Oregon','51.99',null,'q','1 (4)','0.243');
 insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400m','2019','SEMIS','9','Briyahna DESROSIERS','SR','Oregon','52.00',null,null,'3 (3)','0.239');
-insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400m','2019','SEMIS','10','Venessa DnullARPINO','SR','Oregon','52.50',null,null,'2 (3)','0.218');
+insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400m','2019','SEMIS','10','Venessa D''ARPINO','SR','Oregon','52.50',null,null,'2 (3)','0.218');
 insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400m','2019','SEMIS','11','Natassha MCDONALD','JR','Alabama','52.75',null,null,'2 (4)','0.269');
 insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400m','2019','SEMIS','12','Tierra ROBINSON-JONES','FR','Texas A&M','52.92',null,null,'3 (4)','0.289');
 insert into W_400M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400m','2019','SEMIS','13','Kat SURIN','SR','Connecticut','53.02',null,null,'2 (5)','0.275');
@@ -152,7 +152,7 @@ insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time
 insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl) values ('800m','2019','SEMIS','2','Jazmine FRAY','SR','Texas A&M','2:03.08',null,'Q','3 (1)');
 insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl) values ('800m','2019','SEMIS','3','Allie WILSON','SR','Monmouth','2:03.12',null,'Q','1 (2)');
 insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl) values ('800m','2019','SEMIS','4','Susan EJORE','SR','Oregon','2:03.43',null,'Q','3 (2)');
-insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl) values ('800m','2019','SEMIS','5','AvinullTal WILSON-PERTEETE','SO','UNLV','2:03.44',null,'Q','2 (1)');
+insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl) values ('800m','2019','SEMIS','5','Avi''Tal WILSON-PERTEETE','SO','UNLV','2:03.44',null,'Q','2 (1)');
 insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl) values ('800m','2019','SEMIS','6','Kristie SCHOFFIELD','SO','Boise State','2:03.53',null,'q','3 (3)');
 insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl) values ('800m','2019','SEMIS','7','Anna CAMP','JR','BYU','2:03.65',null,'q','1 (3)');
 insert into W_800M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl) values ('800m','2019','SEMIS','8','Ersula FARROW','SR','LSU','2:03.81',null,'Q','2 (2)');
@@ -199,10 +199,10 @@ insert into W_400H_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time
 insert into W_400H_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time) values ('400H','2019','SEMIS',null,'Ranae MCKENZIE','SR','Kansas State','DNF',null,null,'1','0.333');
 
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','1','Anglerne ANNELUS','JR','USC','22.35',null,'Q','3 (1)','0.221','1.3');
-insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','2','ShanullCarri RICHARDSON','FR','LSU','22.37',null,'Q','2 (1)','0.198','1.3');
+insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','2','Sha''Carri RICHARDSON','FR','LSU','22.37',null,'Q','2 (1)','0.198','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','3','Janeek BROWN','SO','Arkansas','22.51','22.510','Q','2 (2)','0.155','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','3','Cambrea STURGIS','FR','N. Carolina A&T','22.51','22.510','Q','1 (1)','0.169','-0.1');
-insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','5','KanullTia SEYMOUR','SO','Florida State','22.55',null,'Q','3 (2)','0.195','1.3');
+insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','5','Ka''Tia SEYMOUR','SO','Florida State','22.55',null,'Q','3 (2)','0.195','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','6','Lanae-Tava THOMAS','FR','USC','22.65','22.645','q','3 (3)','0.19','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','7','Kayla WHITE','SR','N. Carolina A&T','22.65','22.648','Q','1 (2)','0.158','-0.1');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','8','Teahna DANIELS','SR','Texas','22.65','22.649','q','3 (4)','0.198','1.3');
@@ -212,13 +212,13 @@ insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','12','Kynnedy FLANNEL','FR','Texas','23.00','22.995',null,'3 (5)','0.194','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','13','Anavia BATTLE','SO','Ohio State','23.01',null,null,'1 (4)','0.19','-0.1');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','14','Mauricia PRIETO','JR','Alabama','23.10',null,null,'1 (5)','0.226','-0.1');
-insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','15','BrinullAnna BRANCH','SR','Southern Illinois','23.14',null,null,'1 (6)','0.215','-0.1');
+insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','15','Bri''Anna BRANCH','SR','Southern Illinois','23.14',null,null,'1 (6)','0.215','-0.1');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','16','Twanisha TERRY','SO','USC','23.15',null,null,'3 (6)','0.209','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','17','Caitland SMITH','SR','Arkansas State','23.20',null,null,'2 (5)','0.299','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','18','Zion CORRALES-NELSON','JR','California','23.24',null,null,'3 (7)','0.206','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','19','Daija LAMPKIN','SO','Alabama','23.26',null,null,'1 (7)','0.165','-0.1');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','20','Kamaya DEBOSE-EPPS','FR','N. Carolina A&T','23.29',null,null,'3 (8)','0.181','1.3');
-insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','21','DainullLyn MERRIWEATHER','SO','Oklahoma','23.35',null,null,'2 (6)','0.189','1.3');
+insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','21','Dai''Lyn MERRIWEATHER','SO','Oklahoma','23.35',null,null,'2 (6)','0.189','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','22','Caisja CHANDLER','FR','Cincinnati','23.41',null,null,'1 (8)','0.208','-0.1');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS','23','Shilah BEDINGFIELD','SO','Sacramento St.','23.75',null,null,'2 (7)','0.315','1.3');
 insert into W_200M_SEMIS_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Qualifier,Heat_Pl,Reaction_Time,WIND) values ('200m','2019','SEMIS',null,'Payton CHADWICK','SR','Arkansas','FS',null,null,'2',null,null);
@@ -317,14 +317,14 @@ insert into W_100H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time
 insert into W_100H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100H','2019','FINAL','7','Tiara MCMINN','SO','Miami','12.97',null,'0.175','0.6','2');
 insert into W_100H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100H','2019','FINAL','8','Payton CHADWICK','SR','Arkansas','13.05',null,'0.194','0.6','1');
 
-insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','1','ShanullCarri RICHARDSON','FR','LSU','10.75',null,'0.142','1.6','10');
+insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','1','Sha''Carri RICHARDSON','FR','LSU','10.75',null,'0.142','1.6','10');
 insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','2','Kayla WHITE','SR','N. Carolina A&T','10.95',null,'0.159','1.6','8');
 insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','3','Twanisha TERRY','SO','USC','10.98',null,'0.149','1.6','6');
 insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','4','Teahna DANIELS','SR','Texas','11.00',null,'0.16','1.6','5');
 insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','5','Kiara PARKER','SR','Arkansas','11.02',null,'0.168','1.6','4');
 insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','6','Kiara GRANT','SO','Norfolk State','11.04',null,'0.172','1.6','3');
 insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','7','Anglerne ANNELUS','JR','USC','11.12',null,'0.198','1.6','2');
-insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','8','KanullTia SEYMOUR','SO','Florida State','11.65',null,'0.129','1.6','1');
+insert into W_100M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,WIND,Score) values ('100m','2019','FINAL','8','Ka''Tia SEYMOUR','SO','Florida State','11.65',null,'0.129','1.6','1');
 
 insert into W_400M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score) values ('400m','2019','FINAL','1','Wadeline JONATHAS','JR','South Carolina','50.60',null,'0.232','10');
 insert into W_400M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score) values ('400m','2019','FINAL','2','Chloe ABBOTT','JR','Kentucky','50.98',null,'0.234','8');
@@ -337,7 +337,7 @@ insert into W_400M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time
 
 insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('800m','2019','FINAL','1','Jazmine FRAY','SR','Texas A&M','2:01.31',null,'10');
 insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('800m','2019','FINAL','2','Nia AKINS','JR','Penn','2:01.67',null,'8');
-insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('800m','2019','FINAL','3','AvinullTal WILSON-PERTEETE','SO','UNLV','2:02.20',null,'6');
+insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('800m','2019','FINAL','3','Avi''Tal WILSON-PERTEETE','SO','UNLV','2:02.20',null,'6');
 insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('800m','2019','FINAL','4','Susan EJORE','SR','Oregon','2:02.26',null,'5');
 insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('800m','2019','FINAL','5','Allie WILSON','SR','Monmouth','2:02.56',null,'4');
 insert into W_800M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('800m','2019','FINAL','6','Kristie SCHOFFIELD','SO','Boise State','2:03.86',null,'3');
@@ -354,13 +354,13 @@ insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time
 insert into W_400H_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score) values ('400H','2019','FINAL','8','Samantha GONZALEZ','SR','Miami','58.43',null,null,'1');
 
 insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL','1','Anglerne ANNELUS','JR','USC','22.16',null,'0.233','10','1.3');
-insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL','2','ShanullCarri RICHARDSON','FR','LSU','22.17',null,'0.179','8','1.3');
+insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL','2','Sha''Carri RICHARDSON','FR','LSU','22.17',null,'0.179','8','1.3');
 insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL','3','Cambrea STURGIS','FR','N. Carolina A&T','22.40','22.394','0.16','6','1.3');
 insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL','4','Janeek BROWN','SO','Arkansas','22.40','22.396','0.151','5','1.3');
 insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL','5','Teahna DANIELS','SR','Texas','22.62',null,'0.166','4','1.3');
 insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL','6','Lanae-Tava THOMAS','FR','USC','22.74',null,'0.176','3','1.3');
 insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL','7','Kayla WHITE','SR','N. Carolina A&T','22.81',null,'0.168','2','1.3');
-insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL',null,'KanullTia SEYMOUR','SO','Florida State','DNS',null,null,null,null);
+insert into W_200M_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Reaction_Time,Score,WIND) values ('200m','2019','FINAL',null,'Ka''Tia SEYMOUR','SO','Florida State','DNS',null,null,null,null);
 
 insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','1','Dani JONES','JR','Colorado','15:50.65',null,'10');
 insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','2','Taylor WERNER','SO','Arkansas','15:51.24',null,'8');
@@ -368,7 +368,7 @@ insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_D
 insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','4','Josette NORRIS','SR','Georgetown','15:52.05',null,'5');
 insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','5','Weini KELATI','SO','New Mexico','15:54.46',null,'4');
 insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','6','Makena MORLEY','JR','Colorado','16:02.89',null,'3');
-insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','7','Fiona OnullKEEFFE','JR','Stanford','16:07.84',null,'2');
+insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','7','Fiona O''KEEFFE','JR','Stanford','16:07.84',null,'2');
 insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','8','Hannah STEELMAN','SO','Wofford','16:14.58',null,'1');
 insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','9','Jessica PASCOE','JR','Florida','16:17.82',null,null);
 insert into W_5K_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Time,Time_Detail,Score) values ('5K','2019','FINAL','10','Bethany HASZ','SO','Minnesota','16:18.13',null,null);
@@ -485,10 +485,10 @@ insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,F
 insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','12','Nicola ADER','SO','Nevada','6.21','0.6','1 (4)',null);
 insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','13','Jewel SMITH','SR','Maryland','6.21','0.8','1 (5)',null);
 insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','14','Nadia WILLIAMS','JR','Central Michigan','6.19','0.8','1 (6)',null);
-insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','15','GnullAuna EDWARDS','SO','Arkansas','6.18','1.1','1 (7)',null);
+insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','15','G''Auna EDWARDS','SO','Arkansas','6.18','1.1','1 (7)',null);
 insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','16','Tanalaya GORDON','FR','Memphis','6.08','1','1 (8)',null);
 insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','17','Eszter BAJNOK','JR','Virginia Tech','6.03','1.1','2 (9)',null);
-insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','18','MonaenullNICHOLS','SO','Bethune-Cookman','6.03','0.9','1 (9)',null);
+insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','18','Monae'' NICHOLS','SO','Bethune-Cookman','6.03','0.9','1 (9)',null);
 insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','19','Sophia FALCO','SO','Texas','6.02','0.6','1 (10)',null);
 insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','20','Annastacia FORRESTER','JR','Western Kentucky','5.98','0.8','2 (10)',null);
 insert into W_LJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,Name,YEAR,TEAM,Mark,Wind,Flight_Pl,Score) values ('LJ','2019','FINAL','21','Shylia RILEY','SR','Nebraska','5.97','0.8','1 (11)',null);
@@ -581,7 +581,7 @@ insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,F
 insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,Flight_Pl,Score) values ('TJ','2019','FINAL','8','Tiffany FLYNN','SR','Miss State','13.32','-0.9','2 (7)','1');
 insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,Flight_Pl,Score) values ('TJ','2019','FINAL','9','Alonie SUTTON','FR','Tennessee','13.29','0.2','1 (2)',null);
 insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,Flight_Pl,Score) values ('TJ','2019','FINAL','10','LaChyna ROE','SR','Tennessee','13.20','-0.4','1 (3)',null);
-insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,Flight_Pl,Score) values ('TJ','2019','FINAL','11','Janullla HENDERSON','SR','Wyoming','13.20','0.5','2 (8)',null);
+insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,Flight_Pl,Score) values ('TJ','2019','FINAL','11','Ja''la HENDERSON','SR','Wyoming','13.20','0.5','2 (8)',null);
 insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,Flight_Pl,Score) values ('TJ','2019','FINAL','12','Kala PENN','JR','Florida','13.17','-1.5','1 (4)',null);
 insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,Flight_Pl,Score) values ('TJ','2019','FINAL','13','Leah MORAN','JR','Indiana','13.15','1.1','1 (5)',null);
 insert into W_TJ_FINAL_2019 (EVENT,SEASON,ROUND,Place,NAME,YEAR,Team,Mark,Wind,Flight_Pl,Score) values ('TJ','2019','FINAL','14','Michelle FOKAM','JR','Rice','13.13','-1.1','1 (6)',null);

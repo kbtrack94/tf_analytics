@@ -939,7 +939,7 @@ insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight
 insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_pl,SCORE) values ('HJ','2023','FINAL','2','Vernon TURNER','SR','Oklahoma','2.27','1 (2)','8');
 insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_pl,SCORE) values ('HJ','2023','FINAL','3','Roberto VILCHES','SR','Missouri','2.24','1 (3)','6');
 insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_pl,SCORE) values ('HJ','2023','FINAL','4','Slavko STEVIC','JR','SE Louisiana','2.16','1 (4)','3');
-insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_pl,SCORE) values ('HJ','2023','FINAL','4','Shaun MILLER JR.','State','Ohio ','2.16','1 (4)','3');
+insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_pl,SCORE) values ('HJ','2023','FINAL','4','Shaun MILLER JR.','Ohio State','JR','2.16','1 (4)','3');
 insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_pl,SCORE) values ('HJ','2023','FINAL','4','Trey ALLEN','JR','Louisville','2.16','1 (4)','3');
 insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_pl,SCORE) values ('HJ','2023','FINAL','4','Tony JONES','SR','Miss State','2.16','1 (4)','3');
 insert into M_HJ_FINAL_2023 (EVENT,SEASON,ROUND,Place,Name,Year,Team,Mark,Flight_pl,SCORE) values ('HJ','2023','FINAL','4','Tyus WILSON','SO','Nebraska','2.16','1 (4)','3');

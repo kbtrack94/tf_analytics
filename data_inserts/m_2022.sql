@@ -565,7 +565,7 @@ insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,F
 insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('TJ',2022,'FINAL',8,'Nathan CRAWFORD-WALLIS','Prairie View','SO','16.10','0.6','2 (1)','1');
 insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('TJ',2022,'FINAL',9,'Jalen TATE','Tennessee','SR','16.05','-0.2','2 (2)',null);
 insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('TJ',2022,'FINAL',10,'Jemuel MILLER','UTSA','FR','16.01','0.1','2 (3)',null);
-insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('TJ',2022,'FINAL',11,'RnullLazon BRUMFIELD','Tennessee St.','SR','15.97','0.3','1 (8)',null);
+insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('TJ',2022,'FINAL',11,'R''Lazon BRUMFIELD','Tennessee St.','SR','15.97','0.3','1 (8)',null);
 insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('TJ',2022,'FINAL',12,'Salif MANE','Fairleigh Dickinson','JR','15.96','1.0','2 (4)',null);
 insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('TJ',2022,'FINAL',13,'Jason SMITH','Long Beach St.','SR','15.91','0.3','2 (5)',null);
 insert into m_TJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('TJ',2022,'FINAL',14,'Sean DIXON-BODIE','LSU','SO','15.90','0.4','1 (9)',null);
@@ -585,7 +585,7 @@ insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,F
 insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('LJ',2022,'FINAL',3,'Isaac GRIMES','Florida State','SR','7.97','-0.3','2 (2)','6');
 insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('LJ',2022,'FINAL',4,'Carey MCLEOD','Tennessee','SR','7.90','0.1','2 (1)','5');
 insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('LJ',2022,'FINAL',5,'Brandon HICKLIN','N. Carolina A&T','SR','7.86','0.5','1 (3)','4');
-insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('LJ',2022,'FINAL',6,'AnullNan BRIDGETT','Rutgers','JR','7.85','0.6','1 (2)','3');
+insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('LJ',2022,'FINAL',6,'A''Nan BRIDGETT','Rutgers','JR','7.85','0.6','1 (2)','3');
 insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('LJ',2022,'FINAL',7,'Stacy BROWN JR','Texas','SO','7.81','0.6','1 (4)','2');
 insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('LJ',2022,'FINAL',8,'Anthony RILEY','Tennessee','SO','7.80','1.1','2 (3)','1');
 insert into m_LJ_final_2022 (Event,SEASON,ROUND,PLACE,Name,Team,Year,Mark,Wind,Flight_Pl,Score) values ('LJ',2022,'FINAL',9,'Cameron CRUMP','Miss State','SR','7.65','0.5','1 (6)',null);

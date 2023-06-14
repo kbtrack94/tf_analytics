@@ -507,7 +507,7 @@ insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,F
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',8,'Tuomas KAUKOLAHTI','JR','California','16.50','0.9','2 (6)','1');
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',9,'Ade'' MASON','JR','Oklahoma','16.38','1.2','1 (2)',null);
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',10,'Treyvon FERGUSON','FR','Kansas','16.18','2.0','1 (3)',null);
-insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',11,'RnullLazon BRUMFIELD','SO','Tennessee St.','16.14','1.4','2 (8)',null);
+insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',11,'R''Lazon BRUMFIELD','SO','Tennessee St.','16.14','1.4','2 (8)',null);
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',12,'Jah STRANGE','JR','Purdue','16.03','1.1','2 (9)',null);
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',13,'Clayton BROWN','JR','Florida','15.99','1.6','1 (4)',null);
 insert into m_TJ_final_2019 (Event,SEASON,ROUND,PLACE,Name,Year,Team,Mark,Wind,Flight_Pl,Score) values ('TJ',2019,'FINAL',14,'Papay GLAYWULU','SO','Oklahoma','15.94','0.8','2 (10)',null);

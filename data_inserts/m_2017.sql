@@ -481,7 +481,7 @@ insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,F
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',7,'Carlos BECKER','FR','Florida State',7.63,'0.7','1 (1)','2');
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',8,'Andreas TRAJKOVSKI','SR','Arkansas',7.62,'0.4','2 (6)','1');
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',9,'Jacob FINCHAM-DUKES','SO','Oklahoma State',7.61,'0.1','2 (8)',null);
-insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',10,'OnullBrien WASOME','FR','Texas',7.58,'1.5','1 (2)',null);
+insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',10,'O''Brien WASOME','FR','Texas',7.58,'1.5','1 (2)',null);
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',11,'Scotty NEWTON','JR','TCU',7.51,'0.4','1 (3)',null);
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',12,'Justin HALL','FR','Texas Tech',7.48,'0.2','2 (9)',null);
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',13,'Isaiah GRIFFITH','FR','Nebraska',7.47,'1.1','1 (4)',null);
@@ -492,7 +492,7 @@ insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,F
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',18,'Malik MOFFETT','JR','Penn State',7.32,'0.9','1 (8)',null);
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',19,'Willie REED','JR','Miss State',7.28,'1.2','2 (11)',null);
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',20,'Ventavius SEARS','SR','Western Kentucky',7.26,'1.1','1 (9)',null);
-insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',21,'OnullShea WILSON','JR','Iowa',7.20,'1.2','1 (10)',null);
+insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',21,'O''Shea WILSON','JR','Iowa',7.20,'1.2','1 (10)',null);
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',22,'Zack BAZILE','JR','Ohio State',7.14,'1.0','2 (12)',null);
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',23,'Samory FRAGA','SO','Kent State',6.99,'0.1','1 (11)',null);
 insert into m_LJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,WIND,Flight_Pl,SCORE) values ('LJ',2017,'FINAL',null,'Fred DORSEY','JR','Kentucky','FOUL',null,'1',null);
@@ -517,7 +517,7 @@ insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight
 insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('SP',2017,'FINAL',18,'Brett NEELLY','SO','Kansas State',18.58,'1 (6)',null);
 insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('SP',2017,'FINAL',19,'Josh AWOTUNDE','JR','South Carolina',18.52,'1 (7)',null);
 insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('SP',2017,'FINAL',20,'Zachary STETLER','SR','BYU',18.49,'1 (8)',null);
-insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('SP',2017,'FINAL',21,'TnullMond JOHNSON','SO','Texas State',18.31,'1 (9)',null);
+insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('SP',2017,'FINAL',21,'T''Mond JOHNSON','SO','Texas State',18.31,'1 (9)',null);
 insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('SP',2017,'FINAL',22,'Grant CARTWRIGHT','JR','Michigan',18.21,'1 (10)',null);
 insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('SP',2017,'FINAL',23,'Andrew LISKOWITZ','FR','Michigan',17.57,'1 (11)',null);
 insert into m_SP_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('SP',2017,'FINAL',24,'Josh MCDONALD','JR','Wisconsin',17.09,'1 (12)',null);
@@ -542,7 +542,7 @@ insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight
 insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HJ',2017,'FINAL',15,'Kyle LANDON','SR','Southern Illinois','2.08','1 (15)',null);
 insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HJ',2017,'FINAL',19,'Vincent CALHOUN','JR','Long Beach St.','2.08','1 (19)',null);
 insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HJ',2017,'FINAL',19,'Chris SULLIVAN','SR','FIU','2.08','1 (19)',null);
-insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HJ',2017,'FINAL',null,'EdnullRicus WILLIAMS','SR','Florida State','NH','1',null);
+insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HJ',2017,'FINAL',null,'Ed''Ricus WILLIAMS','SR','Florida State','NH','1',null);
 insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HJ',2017,'FINAL',null,'Cody STINE','SO','Akron','NH','1',null);
 insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HJ',2017,'FINAL',null,'Keyth FIGHTMASTER','SO','Samford','NH','1',null);
 insert into m_HJ_final_2017 (Event,SEASON,ROUND,PLACE,Name,YEAR,TEAM,Mark,Flight_Pl,SCORE) values ('HJ',2017,'FINAL',null,'Justin KRETCHMER','SR','Kentucky','NH','1',null);
