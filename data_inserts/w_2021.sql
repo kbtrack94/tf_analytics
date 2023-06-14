@@ -429,7 +429,7 @@ insert into W_HT_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,TEAM,YEAR,MARK,SCORE)
 insert into W_HT_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,TEAM,YEAR,MARK,SCORE) values ('HT','2021','FINAL','21','Tess KEYZERS','Minnesota','SO','63.82',null);
 insert into W_HT_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,TEAM,YEAR,MARK,SCORE) values ('HT','2021','FINAL','22','Quiara WHEELER','Central Michigan','JR','62.64',null);
 insert into W_HT_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,TEAM,YEAR,MARK,SCORE) values ('HT','2021','FINAL','23','Helene INGVALDSEN','Kansas State','SR','60.90',null);
-insert into W_HT_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,TEAM,YEAR,MARK,SCORE) values ('HT','2021','FINAL',null,null,'Kansas State','JR','FOUL',null);
+insert into W_HT_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,TEAM,YEAR,MARK,SCORE) values ('HT','2021','FINAL',null,'Shaelyn WARD','Kansas State','JR','FOUL',null);
 
 insert into W_PV_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,TEAM,YEAR,MARK,Flight_pl,SCORE) values ('PV','2021','FINAL','1','Lisa GUNNARSSON','LSU','JR','4.40','1 (1)','10');
 insert into W_PV_FINAL_2021 (EVENT,SEASON,ROUND,PLACE,NAME,TEAM,YEAR,MARK,Flight_pl,SCORE) values ('PV','2021','FINAL','2','Lauren MARTINEZ','Arkansas','SR','4.35','1 (2)','8');
