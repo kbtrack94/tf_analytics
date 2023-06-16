@@ -1,171 +1,251 @@
-EVENT,SEASON,ROUND,,,,,,,TIME_DETAIL,QUALIFIER,"""HEAT(PL)""",WIND,
-100M,2014,PRELIM,null,Chris Royster,,SR,South Carolina,DNF,,,null,'0.6',
-100M,2014,PRELIM,,Trayvon Bromell,,FR,Baylor,9.92,,Q,'1 (1)','2.2',
-100M,2014,PRELIM,,Cejhae Greene,,FR,Florida State,10.30,,,'1 (8)','2.2',
-100M,2014,PRELIM,,Shavez Hart,,JR,Texas A&M,10.18,,Q,'3 (2)','0.6',
-100M,2014,PRELIM,,Antwan Wright,,SO,Florida,10.13,,q,'2 (3)','2.3',
-100M,2014,PRELIM,,Dentarius Locke,,SR,Florida State,10.13,,Q,'3 (1)','0.6',
-100M,2014,PRELIM,,Desmond Lawrence,,SR,N. Carolina A&T,10.12,,q,'1 (3)','2.2',
-100M,2014,PRELIM,,Justin Walker,,SR,Northwestern St.,10.12,,Q,'2 (1)','2.3',
-100M,2014,PRELIM,,Clayton Vaughn,,JR,UT-Arlington,10.12,,Q,'2 (2)','2.3',
-100M,2014,PRELIM,,Aaron Brown,,SR,USC,10.10,,Q,'1 (2)','2.2',
-100M,2014,PRELIM,,Ronnie Baker,,SO,TCU,10.74,,,'3 (7)','0.6',
-100M,2014,PRELIM,,BeeJay Lee,,JR,USC,10.38,,,'3 (6)','0.6',
-100M,2014,PRELIM,,John Teeters,,SO,Oklahoma State,10.35,,,'2 (8)','2.3',
-100M,2014,PRELIM,,Tevin Hester,,SO,Clemson,10.31,,,'3 (5)','0.6',
-100M,2014,PRELIM,,"Prezel Hardy, Jr.",,SR,Texas A&M,10.28,,,'3 (4)','0.6',
-100M,2014,PRELIM,,Everett Walker,,SR,Baylor,10.27,,,'1 (7)','2.2',
-100M,2014,PRELIM,,Nic Bowens,,JR,Utah State,10.27,,,'2 (7)','2.3',
-100M,2014,PRELIM,,Johnathan Smith,,SR,Georgia,10.27,,,'3 (3)','0.6',
-100M,2014,PRELIM,,Reggie Lewis,,JR,Clemson,10.23,,,'1 (6)','2.2',
-100M,2014,PRELIM,,Raheem Mostert,,JR,Purdue,10.22,,,'1 (5)','2.2',
-100M,2014,PRELIM,,Darrell Wesh,,SR,Virginia Tech,10.21,,,'2 (5)','2.3',
-100M,2014,PRELIM,,Bryce Robinson,,SO,Tulsa,10.21,,,'2 (6)','2.3',
-100M,2014,PRELIM,,Senoj-Jay Givans,,FR,Texas,10.15,,,'1 (4)','2.2',
-100M,2014,PRELIM,,Aaron Ernest,,JR,LSU,10.13,,,'2 (4)','2.3',
-400M,2014,PRELIM,,Deon Lendore,,JR,Texas A&M,45.18,,Q,'1 (1)',,
-400M,2014,PRELIM,,"Hugh Graham, Jr.",,JR,Florida,45.83,,Q,'1 (2)',,
-400M,2014,PRELIM,,Cass Brown-Stewart,,SR,Stephen F. Austin,46.20,,,'1 (3)',,
-400M,2014,PRELIM,,Zack Bilderback,,SO,Texas,46.28,,,'1 (4)',,
-400M,2014,PRELIM,,Carlyle Roudette,,SR,Texas A&M,46.36,,,'1 (5)',,
-400M,2014,PRELIM,,"Aldrich Bailey, Jr.",,SO,Texas A&M,46.71,,,'1 (6)',,
-400M,2014,PRELIM,,Je'von Hutchison,,SR,Hampton,46.97,,,'1 (7)',,
-400M,2014,PRELIM,,DJ Zahn,,JR,Illinois,47.30,,,'1 (8)',,
-400M,2014,PRELIM,,Brycen Spratling,,SR,Pittsburgh,45.41,,Q,'2 (1)',,
-400M,2014,PRELIM,,Vernon Norwood,,JR,LSU,45.52,,Q,'2 (2)',,
-400M,2014,PRELIM,,Najee Glass,,SO,Florida,45.56,,q,'2 (3)',,
-400M,2014,PRELIM,,Christopher Giesting,,JR,Notre Dame,45.68,,q,'2 (4)',,
-400M,2014,PRELIM,,Patrick Feeney,,SR,Notre Dame,45.88,,,'2 (5)',,
-400M,2014,PRELIM,,Cody Rush,,SO,Nebraska,46.30,,,'2 (6)',,
-400M,2014,PRELIM,,Clinton Collins,,SR,North Texas,46.37,,,'2 (7)',,
-400M,2014,PRELIM,,Errol Nolan,,SR,Houston,47.67,,,'2 (8)',,
-400M,2014,PRELIM,,Mike Berry,,SR,Oregon,45.41,,Q,'3 (1)',,
-400M,2014,PRELIM,,James Harris,,SR,Florida State,45.75,,Q,'3 (2)',,
-400M,2014,PRELIM,,Bralon Taplin,,JR,Texas A&M,45.81,,,'3 (3)',,
-400M,2014,PRELIM,,Braxton Klavins,,JR,SIU-Edwardsville,46.40,,,'3 (4)',,
-400M,2014,PRELIM,,Arman Hall,,SO,Florida,46.66,,,'3 (5)',,
-400M,2014,PRELIM,,Lamar Bruton,,FR,Ohio State,46.70,,,'3 (6)',,
-400M,2014,PRELIM,,Emmanuel Tugumisirize,,SR,Mid. Tenn. St,47.05,,,'3 (7)',,
-400M,2014,PRELIM,null,Michael Cherry,,FR,Florida State,DNS,,,,,
-800M,2014,PRELIM,,Keffri Neal,,JR,Kentucky,1:49.30,,Q,'1 (1)',,
-800M,2014,PRELIM,,Ryan Schnulle,,SO,Florida,1:49.48,,Q,'1 (2)',,
-800M,2014,PRELIM,,Edward Kemboi,,JR,Iowa State,1:49.68,,,'1 (3)',,
-800M,2014,PRELIM,,Jesse Jorgensen,,JR,Washington St,1:50.01,,,'1 (4)',,
-800M,2014,PRELIM,,Grant Grosvenor,,JR,Montana State,1:50.62,,,'1 (5)',,
-800M,2014,PRELIM,,Andres Arroyo,,FR,Florida,1:51.02,,,'1 (6)',,
-800M,2014,PRELIM,,Dylan Capwell,,FR,Monmouth,1:51.18,,,'1 (7)',,
-800M,2014,PRELIM,,Alex Amankwah,,JR,Alabama,1:51.43,,,'1 (8)',,
-800M,2014,PRELIM,,Chris Low,,JR,Long Beach St,1:48.34,,Q,'2 (1)',,
-800M,2014,PRELIM,,Derrick Daigre,,JR,Washington,1:48.77,,Q,'2 (2)',,
-800M,2014,PRELIM,,Boru Guyota,,SR,Oregon,1:48.87,,,'2 (3)',,
-800M,2014,PRELIM,,Sean Obinwa,,SR,Florida,1:48.98,,,'2 (4)',,
-800M,2014,PRELIM,,Hector Hernandez,,SO,Texas A&M,1:49.02,,,'2 (5)',,
-800M,2014,PRELIM,,Joe McAsey,,SO,Illinois,1:49.67,,,'2 (6)',,
-800M,2014,PRELIM,,Nick Hartle,,SO,UCLA,1:49.83,,,'2 (7)',,
-800M,2014,PRELIM,,Brandon McBride,,SO,Mississippi State,1:48.09,,Q,'3 (1)',,
-800M,2014,PRELIM,,Patrick Rono,,JR,Arkansas,1:48.20,,Q,'3 (2)',,
-800M,2014,PRELIM,,Luke Lefebure,,JR,Stanford,1:48.46,,q,'3 (3)',,
-800M,2014,PRELIM,,Eliud Rutto,,SO,Mid. Tenn. St,1:48.57,,q,'3 (4)',,
-800M,2014,PRELIM,,Tomas Squella,,JR,Arkansas,1:49.52,,,'3 (5)',,
-800M,2014,PRELIM,,Otniel Teixeira,,SO,Florida State,1:49.59,,,'3 (6)',,
-800M,2014,PRELIM,,Henry Tufnell,,JR,Brown,1:50.33,,,'3 (7)',,
-800M,2014,PRELIM,,Samuel Ellison,,SR,Villanova,1:51.07,,,'3 (8)',,
-400H,2014,PRELIM,,Trevor Brown,,SR,Colorado St,49.89,,Q,'1 (1)',,
-400H,2014,PRELIM,,Rilwan Alowonle,,SO,North Carolina,50.40,,Q,'1 (2)',,
-400H,2014,PRELIM,,Timothy Holmes,,FR,Baylor,50.56,,q,'1 (3)',,
-400H,2014,PRELIM,,Josh Taylor,,JR,Stephen F. Austin,50.58,,q,'1 (4)',,
-400H,2014,PRELIM,,Mica-Jonathan Petit-Homme,,SO,LIU Brooklyn,50.93,,,'1 (5)',,
-400H,2014,PRELIM,,Desmond Palmer,,FR,Pittsburgh,51.12,,,'1 (6)',,
-400H,2014,PRELIM,,Jordan Rispress,,SR,Ohio State,51.48,,,'1 (7)',,
-400H,2014,PRELIM,,Cam Viney,,SO,Illinois,53.09,,,'1 (8)',,
-400H,2014,PRELIM,,Michael Stigler,,JR,Kansas,49.34,,Q,'2 (1)',,
-400H,2014,PRELIM,,Miles Ukaoma,,SR,Nebraska,49.70,,Q,'2 (2)',,
-400H,2014,PRELIM,,Javonte Lipsey,,SO,North Carolina,50.80,,,'2 (3)',,
-400H,2014,PRELIM,,Tibor Koroknai,,SR,Nebraska,51.15,,,'2 (4)',,
-400H,2014,PRELIM,,Drew Branch,,JR,Georgia,51.51,,,'2 (5)',,
-400H,2014,PRELIM,,Jodi-Rae Blackwood,,SR,Nebraska,51.64,,,'2 (6)',,
-400H,2014,PRELIM,,Miles Dunlap,,JR,Kent State,52.60,,,'2 (7)',,
-400H,2014,PRELIM,,Jussi Kanervo,,FR,South Carolina,52.80,,,'2 (8)',,
-400H,2014,PRELIM,,Quincy Downing,,JR,LSU,50.55,,Q,'3 (1)',,
-400H,2014,PRELIM,,Keyunta Hayes,,JR,UTSA,50.68,,Q,'3 (2)',,
-400H,2014,PRELIM,,Mate Koroknai,,SO,Nebraska,50.75,,,'3 (3)',,
-400H,2014,PRELIM,,Charles Lewis,,JR,New Mexico,50.86,,,'3 (4)',,
-400H,2014,PRELIM,,Gregory Coleman,,JR,Texas A&M,51.02,,,'3 (5)',,
-400H,2014,PRELIM,,Max Tuttle,,SR,Indiana State,51.81,,,'3 (6)',,
-400H,2014,PRELIM,,Calvin Arsenault,,JR,Louisville,53.41,,,'3 (7)',,
-400H,2014,PRELIM,null,Scottie Hearn,,SO,Mississippi State,DNS,,,,,
-4x1,2014,PRELIM,,Western Kentucky,,,Western Kentucky,39.18,,Q,'1 (1)',,
-4x1,2014,PRELIM,,Arizona State,,,Arizona State,39.26,,Q,'1 (2)',,
-4x1,2014,PRELIM,,Nebraska,,,Nebraska,39.52,,,'1 (3)',,
-4x1,2014,PRELIM,,South Carolina,,,South Carolina,39.57,,,'1 (4)',,
-4x1,2014,PRELIM,,Texas-Arlington,,,Texas-Arlington,39.60,,,'1 (5)',,
-4x1,2014,PRELIM,,Arkansas,,,Arkansas,39.69,,,'1 (6)',,
-4x1,2014,PRELIM,,Texas,,,Texas,39.95,,,'1 (7)',,
-4x1,2014,PRELIM,,Charlotte,,,Charlotte,40.12,,,'1 (8)',,
-4x1,2014,PRELIM,,Texas A&M,,,Texas A&M,38.60,,Q,'2 (1)',,
-4x1,2014,PRELIM,,LSU,,,LSU,38.85,,Q,'2 (2)',,
-4x1,2014,PRELIM,,USC,,,USC,39.08,,q,'2 (3)',,
-4x1,2014,PRELIM,,Iowa,,,Iowa,39.19,,q,'2 (4)',,
-4x1,2014,PRELIM,,Purdue,,,Purdue,39.49,,,'2 (5)',,
-4x1,2014,PRELIM,,TCU,,,TCU,39.52,,,'2 (6)',,
-4x1,2014,PRELIM,,Houston,,,Houston,39.65,,,'2 (7)',,
-4x1,2014,PRELIM,,California,,,California,40.17,,,'2 (8)',,
-4x1,2014,PRELIM,,Florida,,,Florida,38.77,,Q,'3 (1)',,
-4x1,2014,PRELIM,,Alabama,,,Alabama,39.36,,Q,'3 (2)',,
-4x1,2014,PRELIM,,Louisiana Tech,,,Louisiana Tech,39.54,,,'3 (3)',,
-4x1,2014,PRELIM,,Florida State,,,Florida State,39.56,,,'3 (4)',,
-4x1,2014,PRELIM,,East Carolina,,,East Carolina,39.92,,,'3 (5)',,
-4x1,2014,PRELIM,,Mississippi,,,Mississippi,40.05,,,'3 (6)',,
-4x1,2014,PRELIM,null,Baylor,,,Baylor,DNF,,,null,,
-4x1,2014,PRELIM,null,Georgia,,,Georgia,DNF,,,null,,
-PV,2014,,PLACE,FIRST NAME,LAST NAME,YEAR,TEAM,MARK,,,FLIGHT(PL),,
-PV,2014,FINAL,1,Sam,Kendricks,JR,Mississippi,5.70m,,,'1 (1)',,
-PV,2014,FINAL,2,Shawn,Barber,SO,Akron,5.65m,,,'1 (2)',,
-PV,2014,FINAL,3,Jake,Blankenship,SO,Tennessee,5.55m,,,'1 (3)',,
-PV,2014,FINAL,4,Peter,Geraghty,SR,E. Illinois,5.50m,,,'1 (4)',,
-PV,2014,FINAL,5,Zach,Siegmeier,SR,Minnesota,5.50m,,,'1 (5)',,
-PV,2014,FINAL,5,Chase,Wolfle,SO,Texas A&M,5.50m,,,'1 (5)',,
-PV,2014,FINAL,7,Reese,Watson,SO,Texas,5.50m,,,'1 (7)',,
-PV,2014,FINAL,7,Chris,Pillow,JR,Rice,5.50m,,,'1 (7)',,
-PV,2014,FINAL,9,Michael,Viken,SR,E. Illinois,5.50m,,,'1 (9)',,
-PV,2014,FINAL,10,Colton,Ross,SR,Stephen F. Austin,5.40m,,,'1 (10)',,
-PV,2014,FINAL,10,Pauls,Pujats,JR,Memphis,5.40m,,,'1 (10)',,
-PV,2014,FINAL,12,Adam,Bragg,SO,Princeton,5.40m,,,'1 (12)',,
-PV,2014,FINAL,13,Nikita,Kirillov,JR,Georgia Tech,5.40m,,,'1 (13)',,
-PV,2014,FINAL,14,Torben,Laidig,FR,Virginia Tech,5.40m,,,'1 (14)',,
-PV,2014,FINAL,14,Jax,Thoirs,SO,Washington,5.40m,,,'1 (14)',,
-PV,2014,FINAL,16,Stephan,Munz,SR,Virginia Tech,5.40m,,,'1 (16)',,
-PV,2014,FINAL,17,Dylan,Duvio,FR,Stanford,5.25m,,,'1 (17)',,
-PV,2014,FINAL,18,Austin,Crenshaw,SR,Memphis,5.25m,,,'1 (18)',,
-PV,2014,FINAL,19,Chase,Brannon,SR,Tennessee,5.10m,,,'1 (19)',,
-PV,2014,FINAL,19,Max,Babits,SR,Eastern Michigan,5.10m,,,'1 (19)',,
-PV,2014,FINAL,21,Michael,Vani,SR,UL-Lafayette,5.10m,,,'1 (21)',,
-PV,2014,FINAL,22,Matt,Sullivan,JR,Idaho,5.10m,,,'1 (22)',,
-PV,2014,FINAL,null,Andrew,Irwin,JR,Arkansas,NH,,,null,,
-PV,2014,FINAL,null,Michael,Mahnke,SR,Houston,NH,,,null,,
-SP,2014,,PLACE,FIRST NAME,LAST NAME,YEAR,TEAM,MARK,,,FLIGHT(PL),,
-SP,2014,PRELIM,1,Ryan,Crouser,JR,Texas,21.12m,,,'1 (1)',,
-SP,2014,PRELIM,2,Nick,Vena,JR,Georgia,20.16m,,,'1 (2)',,
-SP,2014,PRELIM,3,Stephen,Saenz,SR,Auburn,19.78m,,,'1 (3)',,
-SP,2014,PRELIM,4,Nicholas,Scarvelis,SO,UCLA,19.27m,,,'1 (4)',,
-SP,2014,PRELIM,5,Jonathan,Jones,JR,Buffalo,19.26m,,,'1 (5)',,
-SP,2014,PRELIM,6,Chad,Wright,SR,Nebraska,19.15m,,,'1 (6)',,
-SP,2014,PRELIM,7,Darrell,Hill,JR,Penn State,19.14m,,,'1 (7)',,
-SP,2014,PRELIM,8,Derek,Sievers,SO,Michigan,18.77m,,,'1 (8)',,
-SP,2014,PRELIM,9,Kole,Weldon,JR,Texas Tech,18.68m,,,'1 (9)',,
-SP,2014,PRELIM,10,Albert,Fournette,SR,UL-Lafayette,18.32m,,,'1 (10)',,
-SP,2014,PRELIM,11,Aaron,Castle,FR,Arizona,17.49m,,,'1 (11)',,
-SP,2014,PRELIM,12,Andrew,Akens,JR,UTSA,17.04m,,,'1 (12)',,
-SP,2014,,PLACE,FIRST NAME,LAST NAME,YEAR,TEAM,MARK,,,FLIGHT(PL),,
-SP,2014,PRELIM,1,Stephen,Mozia,JR,Cornell,20.46m,,,'2 (1)',,
-SP,2014,PRELIM,2,Richard,Garrett,SR,UTSA,20.14m,,,'2 (2)',,
-SP,2014,PRELIM,3,Stipe,Zunic,JR,Florida,19.67m,,,'2 (3)',,
-SP,2014,PRELIM,4,Filip,Mihaljevic,FR,Virginia,19.56m,,,'2 (4)',,
-SP,2014,PRELIM,5,Curtis,Jensen,SR,Illinois State,19.49m,,,'2 (5)',,
-SP,2014,PRELIM,6,Ryan,Hershberger,SR,Kansas State,19.29m,,,'2 (6)',,
-SP,2014,PRELIM,7,Kyle,Felpel,FR,Alabama,19.18m,,,'2 (7)',,
-SP,2014,PRELIM,8,Bobby,Grace,SR,Youngstown St,19.14m,,,'2 (8)',,
-SP,2014,PRELIM,9,Jan,Jeuschede,SO,Iowa State,18.75m,,,'2 (9)',,
-SP,2014,PRELIM,10,Matt,Babicz,JR,DePaul,18.29m,,,'2 (10)',,
-SP,2014,PRELIM,11,Josh,Freeman,SO,S. Illinois,18.11m,,,'2 (11)',,
-SP,2014,PRELIM,null,Antonio,James,JR,Michigan State,FOUL,,,null,,
+values (EVENT,SEASON,ROUND,,,,,,,TIME_DETAIL,QUALIFIER,"""HEAT(PL)""",WIND,);
+values (100M,2014,PRELIM,null,Chris Royster,,SR,South Carolina,DNF,,,null,'0.6',);
+values (100M,2014,PRELIM,,Trayvon Bromell,,FR,Baylor,9.92,,Q,'1 (1)','2.2',);
+values (100M,2014,PRELIM,,Cejhae Greene,,FR,Florida State,10.30,,,'1 (8)','2.2',);
+values (100M,2014,PRELIM,,Shavez Hart,,JR,Texas A&M,10.18,,Q,'3 (2)','0.6',);
+values (100M,2014,PRELIM,,Antwan Wright,,SO,Florida,10.13,,q,'2 (3)','2.3',);
+values (100M,2014,PRELIM,,Dentarius Locke,,SR,Florida State,10.13,,Q,'3 (1)','0.6',);
+values (100M,2014,PRELIM,,Desmond Lawrence,,SR,N. Carolina A&T,10.12,,q,'1 (3)','2.2',);
+values (100M,2014,PRELIM,,Justin Walker,,SR,Northwestern St.,10.12,,Q,'2 (1)','2.3',);
+values (100M,2014,PRELIM,,Clayton Vaughn,,JR,UT-Arlington,10.12,,Q,'2 (2)','2.3',);
+values (100M,2014,PRELIM,,Aaron Brown,,SR,USC,10.10,,Q,'1 (2)','2.2',);
+values (100M,2014,PRELIM,,Ronnie Baker,,SO,TCU,10.74,,,'3 (7)','0.6',);
+values (100M,2014,PRELIM,,BeeJay Lee,,JR,USC,10.38,,,'3 (6)','0.6',);
+values (100M,2014,PRELIM,,John Teeters,,SO,Oklahoma State,10.35,,,'2 (8)','2.3',);
+values (100M,2014,PRELIM,,Tevin Hester,,SO,Clemson,10.31,,,'3 (5)','0.6',);
+values (100M,2014,PRELIM,,"Prezel Hardy, Jr.",,SR,Texas A&M,10.28,,,'3 (4)','0.6',);
+values (100M,2014,PRELIM,,Everett Walker,,SR,Baylor,10.27,,,'1 (7)','2.2',);
+values (100M,2014,PRELIM,,Nic Bowens,,JR,Utah State,10.27,,,'2 (7)','2.3',);
+values (100M,2014,PRELIM,,Johnathan Smith,,SR,Georgia,10.27,,,'3 (3)','0.6',);
+values (100M,2014,PRELIM,,Reggie Lewis,,JR,Clemson,10.23,,,'1 (6)','2.2',);
+values (100M,2014,PRELIM,,Raheem Mostert,,JR,Purdue,10.22,,,'1 (5)','2.2',);
+values (100M,2014,PRELIM,,Darrell Wesh,,SR,Virginia Tech,10.21,,,'2 (5)','2.3',);
+values (100M,2014,PRELIM,,Bryce Robinson,,SO,Tulsa,10.21,,,'2 (6)','2.3',);
+values (100M,2014,PRELIM,,Senoj-Jay Givans,,FR,Texas,10.15,,,'1 (4)','2.2',);
+values (100M,2014,PRELIM,,Aaron Ernest,,JR,LSU,10.13,,,'2 (4)','2.3',);
+values (400M,2014,PRELIM,,Deon Lendore,,JR,Texas A&M,45.18,,Q,'1 (1)',,);
+values (400M,2014,PRELIM,,"Hugh Graham, Jr.",,JR,Florida,45.83,,Q,'1 (2)',,);
+values (400M,2014,PRELIM,,Cass Brown-Stewart,,SR,Stephen F. Austin,46.20,,,'1 (3)',,);
+values (400M,2014,PRELIM,,Zack Bilderback,,SO,Texas,46.28,,,'1 (4)',,);
+values (400M,2014,PRELIM,,Carlyle Roudette,,SR,Texas A&M,46.36,,,'1 (5)',,);
+values (400M,2014,PRELIM,,"Aldrich Bailey, Jr.",,SO,Texas A&M,46.71,,,'1 (6)',,);
+values (400M,2014,PRELIM,,Je'von Hutchison,,SR,Hampton,46.97,,,'1 (7)',,);
+values (400M,2014,PRELIM,,DJ Zahn,,JR,Illinois,47.30,,,'1 (8)',,);
+values (400M,2014,PRELIM,,Brycen Spratling,,SR,Pittsburgh,45.41,,Q,'2 (1)',,);
+values (400M,2014,PRELIM,,Vernon Norwood,,JR,LSU,45.52,,Q,'2 (2)',,);
+values (400M,2014,PRELIM,,Najee Glass,,SO,Florida,45.56,,q,'2 (3)',,);
+values (400M,2014,PRELIM,,Christopher Giesting,,JR,Notre Dame,45.68,,q,'2 (4)',,);
+values (400M,2014,PRELIM,,Patrick Feeney,,SR,Notre Dame,45.88,,,'2 (5)',,);
+values (400M,2014,PRELIM,,Cody Rush,,SO,Nebraska,46.30,,,'2 (6)',,);
+values (400M,2014,PRELIM,,Clinton Collins,,SR,North Texas,46.37,,,'2 (7)',,);
+values (400M,2014,PRELIM,,Errol Nolan,,SR,Houston,47.67,,,'2 (8)',,);
+values (400M,2014,PRELIM,,Mike Berry,,SR,Oregon,45.41,,Q,'3 (1)',,);
+values (400M,2014,PRELIM,,James Harris,,SR,Florida State,45.75,,Q,'3 (2)',,);
+values (400M,2014,PRELIM,,Bralon Taplin,,JR,Texas A&M,45.81,,,'3 (3)',,);
+values (400M,2014,PRELIM,,Braxton Klavins,,JR,SIU-Edwardsville,46.40,,,'3 (4)',,);
+values (400M,2014,PRELIM,,Arman Hall,,SO,Florida,46.66,,,'3 (5)',,);
+values (400M,2014,PRELIM,,Lamar Bruton,,FR,Ohio State,46.70,,,'3 (6)',,);
+values (400M,2014,PRELIM,,Emmanuel Tugumisirize,,SR,Mid. Tenn. St,47.05,,,'3 (7)',,);
+values (400M,2014,PRELIM,null,Michael Cherry,,FR,Florida State,DNS,,,,,);
+values (800M,2014,PRELIM,,Keffri Neal,,JR,Kentucky,1:49.30,,Q,'1 (1)',,);
+values (800M,2014,PRELIM,,Ryan Schnulle,,SO,Florida,1:49.48,,Q,'1 (2)',,);
+values (800M,2014,PRELIM,,Edward Kemboi,,JR,Iowa State,1:49.68,,,'1 (3)',,);
+values (800M,2014,PRELIM,,Jesse Jorgensen,,JR,Washington St,1:50.01,,,'1 (4)',,);
+values (800M,2014,PRELIM,,Grant Grosvenor,,JR,Montana State,1:50.62,,,'1 (5)',,);
+values (800M,2014,PRELIM,,Andres Arroyo,,FR,Florida,1:51.02,,,'1 (6)',,);
+values (800M,2014,PRELIM,,Dylan Capwell,,FR,Monmouth,1:51.18,,,'1 (7)',,);
+values (800M,2014,PRELIM,,Alex Amankwah,,JR,Alabama,1:51.43,,,'1 (8)',,);
+values (800M,2014,PRELIM,,Chris Low,,JR,Long Beach St,1:48.34,,Q,'2 (1)',,);
+values (800M,2014,PRELIM,,Derrick Daigre,,JR,Washington,1:48.77,,Q,'2 (2)',,);
+values (800M,2014,PRELIM,,Boru Guyota,,SR,Oregon,1:48.87,,,'2 (3)',,);
+values (800M,2014,PRELIM,,Sean Obinwa,,SR,Florida,1:48.98,,,'2 (4)',,);
+values (800M,2014,PRELIM,,Hector Hernandez,,SO,Texas A&M,1:49.02,,,'2 (5)',,);
+values (800M,2014,PRELIM,,Joe McAsey,,SO,Illinois,1:49.67,,,'2 (6)',,);
+values (800M,2014,PRELIM,,Nick Hartle,,SO,UCLA,1:49.83,,,'2 (7)',,);
+values (800M,2014,PRELIM,,Brandon McBride,,SO,Mississippi State,1:48.09,,Q,'3 (1)',,);
+values (800M,2014,PRELIM,,Patrick Rono,,JR,Arkansas,1:48.20,,Q,'3 (2)',,);
+values (800M,2014,PRELIM,,Luke Lefebure,,JR,Stanford,1:48.46,,q,'3 (3)',,);
+values (800M,2014,PRELIM,,Eliud Rutto,,SO,Mid. Tenn. St,1:48.57,,q,'3 (4)',,);
+values (800M,2014,PRELIM,,Tomas Squella,,JR,Arkansas,1:49.52,,,'3 (5)',,);
+values (800M,2014,PRELIM,,Otniel Teixeira,,SO,Florida State,1:49.59,,,'3 (6)',,);
+values (800M,2014,PRELIM,,Henry Tufnell,,JR,Brown,1:50.33,,,'3 (7)',,);
+values (800M,2014,PRELIM,,Samuel Ellison,,SR,Villanova,1:51.07,,,'3 (8)',,);
+values (400H,2014,PRELIM,,Trevor Brown,,SR,Colorado St,49.89,,Q,'1 (1)',,);
+values (400H,2014,PRELIM,,Rilwan Alowonle,,SO,North Carolina,50.40,,Q,'1 (2)',,);
+values (400H,2014,PRELIM,,Timothy Holmes,,FR,Baylor,50.56,,q,'1 (3)',,);
+values (400H,2014,PRELIM,,Josh Taylor,,JR,Stephen F. Austin,50.58,,q,'1 (4)',,);
+values (400H,2014,PRELIM,,Mica-Jonathan Petit-Homme,,SO,LIU Brooklyn,50.93,,,'1 (5)',,);
+values (400H,2014,PRELIM,,Desmond Palmer,,FR,Pittsburgh,51.12,,,'1 (6)',,);
+values (400H,2014,PRELIM,,Jordan Rispress,,SR,Ohio State,51.48,,,'1 (7)',,);
+values (400H,2014,PRELIM,,Cam Viney,,SO,Illinois,53.09,,,'1 (8)',,);
+values (400H,2014,PRELIM,,Michael Stigler,,JR,Kansas,49.34,,Q,'2 (1)',,);
+values (400H,2014,PRELIM,,Miles Ukaoma,,SR,Nebraska,49.70,,Q,'2 (2)',,);
+values (400H,2014,PRELIM,,Javonte Lipsey,,SO,North Carolina,50.80,,,'2 (3)',,);
+values (400H,2014,PRELIM,,Tibor Koroknai,,SR,Nebraska,51.15,,,'2 (4)',,);
+values (400H,2014,PRELIM,,Drew Branch,,JR,Georgia,51.51,,,'2 (5)',,);
+values (400H,2014,PRELIM,,Jodi-Rae Blackwood,,SR,Nebraska,51.64,,,'2 (6)',,);
+values (400H,2014,PRELIM,,Miles Dunlap,,JR,Kent State,52.60,,,'2 (7)',,);
+values (400H,2014,PRELIM,,Jussi Kanervo,,FR,South Carolina,52.80,,,'2 (8)',,);
+values (400H,2014,PRELIM,,Quincy Downing,,JR,LSU,50.55,,Q,'3 (1)',,);
+values (400H,2014,PRELIM,,Keyunta Hayes,,JR,UTSA,50.68,,Q,'3 (2)',,);
+values (400H,2014,PRELIM,,Mate Koroknai,,SO,Nebraska,50.75,,,'3 (3)',,);
+values (400H,2014,PRELIM,,Charles Lewis,,JR,New Mexico,50.86,,,'3 (4)',,);
+values (400H,2014,PRELIM,,Gregory Coleman,,JR,Texas A&M,51.02,,,'3 (5)',,);
+values (400H,2014,PRELIM,,Max Tuttle,,SR,Indiana State,51.81,,,'3 (6)',,);
+values (400H,2014,PRELIM,,Calvin Arsenault,,JR,Louisville,53.41,,,'3 (7)',,);
+values (400H,2014,PRELIM,null,Scottie Hearn,,SO,Mississippi State,DNS,,,,,);
+values (4x1,2014,PRELIM,,Western Kentucky,,,Western Kentucky,39.18,,Q,'1 (1)',,);
+values (4x1,2014,PRELIM,,Arizona State,,,Arizona State,39.26,,Q,'1 (2)',,);
+values (4x1,2014,PRELIM,,Nebraska,,,Nebraska,39.52,,,'1 (3)',,);
+values (4x1,2014,PRELIM,,South Carolina,,,South Carolina,39.57,,,'1 (4)',,);
+values (4x1,2014,PRELIM,,Texas-Arlington,,,Texas-Arlington,39.60,,,'1 (5)',,);
+values (4x1,2014,PRELIM,,Arkansas,,,Arkansas,39.69,,,'1 (6)',,);
+values (4x1,2014,PRELIM,,Texas,,,Texas,39.95,,,'1 (7)',,);
+values (4x1,2014,PRELIM,,Charlotte,,,Charlotte,40.12,,,'1 (8)',,);
+values (4x1,2014,PRELIM,,Texas A&M,,,Texas A&M,38.60,,Q,'2 (1)',,);
+values (4x1,2014,PRELIM,,LSU,,,LSU,38.85,,Q,'2 (2)',,);
+values (4x1,2014,PRELIM,,USC,,,USC,39.08,,q,'2 (3)',,);
+values (4x1,2014,PRELIM,,Iowa,,,Iowa,39.19,,q,'2 (4)',,);
+values (4x1,2014,PRELIM,,Purdue,,,Purdue,39.49,,,'2 (5)',,);
+values (4x1,2014,PRELIM,,TCU,,,TCU,39.52,,,'2 (6)',,);
+values (4x1,2014,PRELIM,,Houston,,,Houston,39.65,,,'2 (7)',,);
+values (4x1,2014,PRELIM,,California,,,California,40.17,,,'2 (8)',,);
+values (4x1,2014,PRELIM,,Florida,,,Florida,38.77,,Q,'3 (1)',,);
+values (4x1,2014,PRELIM,,Alabama,,,Alabama,39.36,,Q,'3 (2)',,);
+values (4x1,2014,PRELIM,,Louisiana Tech,,,Louisiana Tech,39.54,,,'3 (3)',,);
+values (4x1,2014,PRELIM,,Florida State,,,Florida State,39.56,,,'3 (4)',,);
+values (4x1,2014,PRELIM,,East Carolina,,,East Carolina,39.92,,,'3 (5)',,);
+values (4x1,2014,PRELIM,,Mississippi,,,Mississippi,40.05,,,'3 (6)',,);
+values (4x1,2014,PRELIM,null,Baylor,,,Baylor,DNF,,,null,,);
+values (4x1,2014,PRELIM,null,Georgia,,,Georgia,DNF,,,null,,);
+values (PV,2014,,PLACE,FIRST NAME,LAST NAME,YEAR,TEAM,MARK,,,FLIGHT(PL),,);
+values (PV,2014,FINAL,1,Sam,Kendricks,JR,Mississippi,5.70m,,,'1 (1)',,);
+values (PV,2014,FINAL,2,Shawn,Barber,SO,Akron,5.65m,,,'1 (2)',,);
+values (PV,2014,FINAL,3,Jake,Blankenship,SO,Tennessee,5.55m,,,'1 (3)',,);
+values (PV,2014,FINAL,4,Peter,Geraghty,SR,E. Illinois,5.50m,,,'1 (4)',,);
+values (PV,2014,FINAL,5,Zach,Siegmeier,SR,Minnesota,5.50m,,,'1 (5)',,);
+values (PV,2014,FINAL,5,Chase,Wolfle,SO,Texas A&M,5.50m,,,'1 (5)',,);
+values (PV,2014,FINAL,7,Reese,Watson,SO,Texas,5.50m,,,'1 (7)',,);
+values (PV,2014,FINAL,7,Chris,Pillow,JR,Rice,5.50m,,,'1 (7)',,);
+values (PV,2014,FINAL,9,Michael,Viken,SR,E. Illinois,5.50m,,,'1 (9)',,);
+values (PV,2014,FINAL,10,Colton,Ross,SR,Stephen F. Austin,5.40m,,,'1 (10)',,);
+values (PV,2014,FINAL,10,Pauls,Pujats,JR,Memphis,5.40m,,,'1 (10)',,);
+values (PV,2014,FINAL,12,Adam,Bragg,SO,Princeton,5.40m,,,'1 (12)',,);
+values (PV,2014,FINAL,13,Nikita,Kirillov,JR,Georgia Tech,5.40m,,,'1 (13)',,);
+values (PV,2014,FINAL,14,Torben,Laidig,FR,Virginia Tech,5.40m,,,'1 (14)',,);
+values (PV,2014,FINAL,14,Jax,Thoirs,SO,Washington,5.40m,,,'1 (14)',,);
+values (PV,2014,FINAL,16,Stephan,Munz,SR,Virginia Tech,5.40m,,,'1 (16)',,);
+values (PV,2014,FINAL,17,Dylan,Duvio,FR,Stanford,5.25m,,,'1 (17)',,);
+values (PV,2014,FINAL,18,Austin,Crenshaw,SR,Memphis,5.25m,,,'1 (18)',,);
+values (PV,2014,FINAL,19,Chase,Brannon,SR,Tennessee,5.10m,,,'1 (19)',,);
+values (PV,2014,FINAL,19,Max,Babits,SR,Eastern Michigan,5.10m,,,'1 (19)',,);
+values (PV,2014,FINAL,21,Michael,Vani,SR,UL-Lafayette,5.10m,,,'1 (21)',,);
+values (PV,2014,FINAL,22,Matt,Sullivan,JR,Idaho,5.10m,,,'1 (22)',,);
+values (PV,2014,FINAL,null,Andrew,Irwin,JR,Arkansas,NH,,,null,,);
+values (PV,2014,FINAL,null,Michael,Mahnke,SR,Houston,NH,,,null,,);
+values (SP,2014,,PLACE,FIRST NAME,LAST NAME,YEAR,TEAM,MARK,,,FLIGHT(PL),,);
+values (SP,2014,PRELIM,1,Ryan,Crouser,JR,Texas,21.12m,,,'1 (1)',,);
+values (SP,2014,PRELIM,2,Nick,Vena,JR,Georgia,20.16m,,,'1 (2)',,);
+values (SP,2014,PRELIM,3,Stephen,Saenz,SR,Auburn,19.78m,,,'1 (3)',,);
+values (SP,2014,PRELIM,4,Nicholas,Scarvelis,SO,UCLA,19.27m,,,'1 (4)',,);
+values (SP,2014,PRELIM,5,Jonathan,Jones,JR,Buffalo,19.26m,,,'1 (5)',,);
+values (SP,2014,PRELIM,6,Chad,Wright,SR,Nebraska,19.15m,,,'1 (6)',,);
+values (SP,2014,PRELIM,7,Darrell,Hill,JR,Penn State,19.14m,,,'1 (7)',,);
+values (SP,2014,PRELIM,8,Derek,Sievers,SO,Michigan,18.77m,,,'1 (8)',,);
+values (SP,2014,PRELIM,9,Kole,Weldon,JR,Texas Tech,18.68m,,,'1 (9)',,);
+values (SP,2014,PRELIM,10,Albert,Fournette,SR,UL-Lafayette,18.32m,,,'1 (10)',,);
+values (SP,2014,PRELIM,11,Aaron,Castle,FR,Arizona,17.49m,,,'1 (11)',,);
+values (SP,2014,PRELIM,12,Andrew,Akens,JR,UTSA,17.04m,,,'1 (12)',,);
+values (SP,2014,,PLACE,FIRST NAME,LAST NAME,YEAR,TEAM,MARK,,,FLIGHT(PL),,);
+values (SP,2014,PRELIM,1,Stephen,Mozia,JR,Cornell,20.46m,,,'2 (1)',,);
+values (SP,2014,PRELIM,2,Richard,Garrett,SR,UTSA,20.14m,,,'2 (2)',,);
+values (SP,2014,PRELIM,3,Stipe,Zunic,JR,Florida,19.67m,,,'2 (3)',,);
+values (SP,2014,PRELIM,4,Filip,Mihaljevic,FR,Virginia,19.56m,,,'2 (4)',,);
+values (SP,2014,PRELIM,5,Curtis,Jensen,SR,Illinois State,19.49m,,,'2 (5)',,);
+values (SP,2014,PRELIM,6,Ryan,Hershberger,SR,Kansas State,19.29m,,,'2 (6)',,);
+values (SP,2014,PRELIM,7,Kyle,Felpel,FR,Alabama,19.18m,,,'2 (7)',,);
+values (SP,2014,PRELIM,8,Bobby,Grace,SR,Youngstown St,19.14m,,,'2 (8)',,);
+values (SP,2014,PRELIM,9,Jan,Jeuschede,SO,Iowa State,18.75m,,,'2 (9)',,);
+values (SP,2014,PRELIM,10,Matt,Babicz,JR,DePaul,18.29m,,,'2 (10)',,);
+values (SP,2014,PRELIM,11,Josh,Freeman,SO,S. Illinois,18.11m,,,'2 (11)',,);
+values (SP,2014,PRELIM,null,Antonio,James,JR,Michigan State,FOUL,,,null,,);
+values (EVENT,SEASON,ROUND,PLACE,,,TEAM,TIME,TIME_DETAIL,REACTION TIME,WIND,SCORE,,EVENT,SEASON,ROUND,PLACE,NAME,YEAR,TEAM,TIME_DETAIL,TIME_DETAIL,SCORE,WIND);
+values (110H,2014,FINAL,1,'Devon Allen',,Oregon,13.16,,,,10,,'110H',2014,'FINAL',1,'Devon Allen',,'Oregon',13.16,,10,0);
+values (110H,2014,FINAL,2,'Aleec Harris',,Southern California,13.18,,,,8,,'110H',2014,'FINAL',2,'Aleec Harris',,'Southern California',13.18,,8,0);
+values (110H,2014,FINAL,3,'Wayne Davis',,Jr.,13.24,,,,6,,'110H',2014,'FINAL',3,'Wayne Davis',,'Jr.',13.24,,6,0);
+values (110H,2014,FINAL,4,'Greggmar Swift',,Indiana St.,13.35,,,,5,,'110H',2014,'FINAL',4,'Greggmar Swift',,'Indiana St.',13.35,,5,0);
+values (110H,2014,FINAL,5,'Eddie Lovett',,Florida,13.44,,,,4,,'110H',2014,'FINAL',5,'Eddie Lovett',,'Florida',13.44,,4,0);
+values (110H,2014,FINAL,6,'Vincent Wyatt',,Radford,13.6,,,,3,,'110H',2014,'FINAL',6,'Vincent Wyatt',,'Radford',13.6,,3,0);
+values (110H,2014,FINAL,7,'Durell Busby',,Milwaukee,13.7,,,,2,,'110H',2014,'FINAL',7,'Durell Busby',,'Milwaukee',13.7,,2,0);
+values (110H,2014,FINAL,8,'Trey Holloway',,Hampton,13.91,,,,1,,'110H',2014,'FINAL',8,'Trey Holloway',,'Hampton',13.91,,1,0);
+values (100m,2014,FINAL,1,'Trayvon Bromell',,Baylor,9.97,,,,10,,'100m',2014,'FINAL',1,'Trayvon Bromell',,'Baylor',9.97,,10,0);
+values (100m,2014,FINAL,2,'Dentarius Locke',,Florida St.,10.02,,,,8,,'100m',2014,'FINAL',2,'Dentarius Locke',,'Florida St.',10.02,,8,0);
+values (100m,2014,FINAL,3,'Aaron Brown',,Southern California,10.07,,,,6,,'100m',2014,'FINAL',3,'Aaron Brown',,'Southern California',10.07,,6,0);
+values (100m,2014,FINAL,4,'Justin Walker',,Northwestern St.,10.12,,,,5,,'100m',2014,'FINAL',4,'Justin Walker',,'Northwestern St.',10.12,,5,0);
+values (100m,2014,FINAL,5,'Chavez Hart',,Texas A&M,10.15,,,,4,,'100m',2014,'FINAL',5,'Chavez Hart',,'Texas A&M',10.15,,4,0);
+values (100m,2014,FINAL,6,'Clayton Vaughn',,Texas-Arlington,,,,,3,,'100m',2014,'FINAL',6,'Clayton Vaughn',,'Texas-Arlington',0,,3,0);
+values (100m,2014,FINAL,7,'Desmond Lawrence',,N.C.,10.236,,,,2,,'100m',2014,'FINAL',7,'Desmond Lawrence',,'N.C.',10.236,,2,0);
+values (100m,2014,FINAL,8,'Antwan Wright',,Florida,,,,,1,,'100m',2014,'FINAL',8,'Antwan Wright',,'Florida',0,,1,0);
+values (400m,2014,FINAL,1,'Deon Lendore',,Texas A&M,45.02,,,,10,,'400m',2014,'FINAL',1,'Deon Lendore',,'Texas A&M',45.02,,10,0);
+values (400m,2014,FINAL,2,'Mike Berry',,Oregon,45.07,,,,8,,'400m',2014,'FINAL',2,'Mike Berry',,'Oregon',45.07,,8,0);
+values (400m,2014,FINAL,3,'Vernon Norwood',,LSU,45.45,,,,6,,'400m',2014,'FINAL',3,'Vernon Norwood',,'LSU',45.45,,6,0);
+values (400m,2014,FINAL,4,'Brycen Spratling',,Pittsburgh,45.49,,,,5,,'400m',2014,'FINAL',4,'Brycen Spratling',,'Pittsburgh',45.49,,5,0);
+values (400m,2014,FINAL,5,'Najee Glass',,Florida,45.63,,,,4,,'400m',2014,'FINAL',5,'Najee Glass',,'Florida',45.63,,4,0);
+values (400m,2014,FINAL,6,'James Harris',,Florida St.,45.64,,,,3,,'400m',2014,'FINAL',6,'James Harris',,'Florida St.',45.64,,3,0);
+values (400m,2014,FINAL,7,'Christopher Giesting',,Notre Dame,46.1,,,,2,,'400m',2014,'FINAL',7,'Christopher Giesting',,'Notre Dame',46.1,,2,0);
+values (400H,2014,FINAL,1,'Miles Ukaoma',,Nebraska,49.23,,,,10,,'400H',2014,'FINAL',1,'Miles Ukaoma',,'Nebraska',49.23,,10,0);
+values (400H,2014,FINAL,2,'Michael Stigler',,Kansas,49.9,,,,8,,'400H',2014,'FINAL',2,'Michael Stigler',,'Kansas',49.9,,8,0);
+values (400H,2014,FINAL,3,'Quincy Downing',,LSU,49.97,,,,6,,'400H',2014,'FINAL',3,'Quincy Downing',,'LSU',49.97,,6,0);
+values (400H,2014,FINAL,4,'Timothy Holmes',,Baylor,50.07,,,,5,,'400H',2014,'FINAL',4,'Timothy Holmes',,'Baylor',50.07,,5,0);
+values (400H,2014,FINAL,5,'Rilwan Alowonle',,North Carolina,51.06,,,,4,,'400H',2014,'FINAL',5,'Rilwan Alowonle',,'North Carolina',51.06,,4,0);
+values (400H,2014,FINAL,6,'Keyunta Hayes',,UTSA,51.65,,,,3,,'400H',2014,'FINAL',6,'Keyunta Hayes',,'UTSA',51.65,,3,0);
+values (400H,2014,FINAL,7,'Josh Taylor',,Stephen F. Austin,53.03,,,,2,,'400H',2014,'FINAL',7,'Josh Taylor',,'Stephen F. Austin',53.03,,2,0);
+values (400H,2014,FINAL,8,'Trevor Brown',,Colorado St.,1:04.02.,,,,1,,'400H',2014,'FINAL',8,'Trevor Brown',,'Colorado St.',1:04.02.,,1,0);
+values (200m,2014,FINAL,1,'Dedric Dukes',,Florida,19.91,,,,10,,'200m',2014,'FINAL',1,'Dedric Dukes',,'Florida',19.91,,10,0);
+values (200m,2014,FINAL,2,'Aaron Brown',,Southern California,20.02,,,,8,,'200m',2014,'FINAL',2,'Aaron Brown',,'Southern California',20.02,,8,0);
+values (200m,2014,FINAL,3,'Justin Walker',,Northwestern St.,20.13,,,,6,,'200m',2014,'FINAL',3,'Justin Walker',,'Northwestern St.',20.13,,6,0);
+values (200m,2014,FINAL,4,'Aaron Ernest',,LSU,20.31,,,,5,,'200m',2014,'FINAL',4,'Aaron Ernest',,'LSU',20.31,,5,0);
+values (200m,2014,FINAL,5,'Everett Walker',,Baylor,20.42,,,,4,,'200m',2014,'FINAL',5,'Everett Walker',,'Baylor',20.42,,4,0);
+values (200m,2014,FINAL,6,'Khalil Henderson',,Auburn,20.61,,,,3,,'200m',2014,'FINAL',6,'Khalil Henderson',,'Auburn',20.61,,3,0);
+values (200m,2014,FINAL,7,'Arthur Delaney',,Oregon,20.79,,,,2,,'200m',2014,'FINAL',7,'Arthur Delaney',,'Oregon',20.79,,2,0);
+values (200m,2014,FINAL,8,'Clayton Vaughn',,Texas-Arlington,26.22,,,,1,,'200m',2014,'FINAL',8,'Clayton Vaughn',,'Texas-Arlington',26.22,,1,0);
+values (4x1,2014,FINAL,1,Florida,,Florida,38.73,,,,10,,'4x1',2014,'FINAL',1,'Florida',,'Florida',38.73,,10,0);
+values (4x1,2014,FINAL,2,Texas A&M,,Texas A&M,38.84,,,,8,,'4x1',2014,'FINAL',2,'Texas A&M',,'Texas A&M',38.84,,8,0);
+values (4x1,2014,FINAL,3,LSU,,LSU,38.85,,,,6,,'4x1',2014,'FINAL',3,'LSU',,'LSU',38.85,,6,0);
+values (4x1,2014,FINAL,4,Southern California,,Southern California,39.3,,,,5,,'4x1',2014,'FINAL',4,'Southern California',,'Southern California',39.3,,5,0);
+values (4x1,2014,FINAL,5,Western Kentucky,,Western Kentucky,39.43,,,,4,,'4x1',2014,'FINAL',5,'Western Kentucky',,'Western Kentucky',39.43,,4,0);
+values (4x1,2014,FINAL,6,Iowa,,Iowa,39.55,,,,3,,'4x1',2014,'FINAL',6,'Iowa',,'Iowa',39.55,,3,0);
+values (4x1,2014,FINAL,7,Arizona St.,,Arizona St.,39.73,,,,2,,'4x1',2014,'FINAL',7,'Arizona St.',,'Arizona St.',39.73,,2,0);
+values (4x1,2014,FINAL,,Alabama,,Alabama,DNF,,,,1,,'4x1',2014,'FINAL',0,'Alabama',,'Alabama',DNF,,1,0);
+values (4x4,2014,FINAL,1,Texas A&M,,Texas A&M,02:59.6,,,,10,,'4x4',2014,'FINAL',1,'Texas A&M',,'Texas A&M',02:59.6,,10,0);
+values (4x4,2014,FINAL,2,Florida,,Florida,03:00.4,,,,8,,'4x4',2014,'FINAL',2,'Florida',,'Florida',03:00.4,,8,0);
+values (4x4,2014,FINAL,3,LSU,,LSU,03:01.6,,,,6,,'4x4',2014,'FINAL',3,'LSU',,'LSU',03:01.6,,6,0);
+values (4x4,2014,FINAL,4,Western Kentucky,,Western Kentucky,03:03.9,,,,5,,'4x4',2014,'FINAL',4,'Western Kentucky',,'Western Kentucky',03:03.9,,5,0);
+values (4x4,2014,FINAL,5,Arizona St,,Arizona St,03:04.1,,,,4,,'4x4',2014,'FINAL',5,'Arizona St',,'Arizona St',03:04.1,,4,0);
+values (4x4,2014,FINAL,6,Nebraska,,Nebraska,03:04.1,,,,3,,'4x4',2014,'FINAL',6,'Nebraska',,'Nebraska',03:04.1,,3,0);
+values (4x4,2014,FINAL,7,Baylor,,Baylor,03:04.8,,,,2,,'4x4',2014,'FINAL',7,'Baylor',,'Baylor',03:04.8,,2,0);
+values (4x4,2014,FINAL,8,Arkansas,,Arkansas,3:07.26.,,,,1,,'4x4',2014,'FINAL',8,'Arkansas',,'Arkansas',03:07.2,,1,0);
+values (10K,2014,FINAL,1,Edward Cheserek,FR,Oregon,28:30.18,'1 (1)',,,10,,,,,,,,,,,,);
+values (10K,2014,FINAL,2,Shadrack Kipchirchir,SR,Oklahoma State,28:32.31,'1 (2)',,,8,,,,,,,,,,,,);
+values (10K,2014,FINAL,3,Mohammed Ahmed,SR,Wisconsin,28:43.82,'1 (3)',,,6,,,,,,,,,,,,);
+values (10K,2014,FINAL,4,Kennedy Kithuka,SR,Texas Tech,28:46.21,'1 (4)',,,5,,,,,,,,,,,,);
+values (10K,2014,FINAL,5,Trevor Dunbar,SR,Oregon,28:53.81,'1 (5)',,,4,,,,,,,,,,,,);
+values (10K,2014,FINAL,6,Jim Rosa,JR,Stanford,28:57.51,'1 (6)',,,3,,,,,,,,,,,,);
+values (10K,2014,FINAL,7,Joe Bosshard,SR,Colorado,29:01.23,'1 (7)',,,2,,,,,,,,,,,,);
+values (10K,2014,FINAL,8,Parker Stinson,SR,Oregon,29:01.39,'1 (8)',,,1,,,,,,,,,,,,);
+values (10K,2014,FINAL,9,Chris Bendtsen,SR,Princeton,29:14.86,'1 (9)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,10,Adam Bitchell,SR,New Mexico,29:16.79,'1 (10)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,11,John Mascari,SO,Indiana State,29:30.76,'1 (11)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,12,Jason Witt,JR,BYU,29:40.98,'1 (12)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,13,Andrew Springer,SR,Georgetown,29:41.96,'1 (13)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,14,Brian Atkinson,SR,Duke,29:48.11,'1 (14)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,15,Luke Caldwell,SR,New Mexico,29:48.64,'1 (15)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,16,Thomas Porter,SR,Virginia,29:50.74,'1 (16)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,17,Brandon Lord,JR,Georgia,30:11.96,'1 (17)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,18,Morsi Rayyan,JR,Michigan,30:17.87,'1 (18)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,19,Tyler Byrne,JR,Louisville,30:26.49,'1 (19)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,20,Chris Enriquez,SO,Long Beach St,30:48.70,'1 (20)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,21,Martin Hehir,JR,Syracuse,31:17.94,'1 (21)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,22,Adam Visokay,FR,Virginia,32:25.14,'1 (22)',,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,null,Jim Spisak,SR,Duquesne,DNF,null,,,,,,,,,,,,,,,);
+values (10K,2014,FINAL,null,James Leakos,SR,Harvard,DQ,null,,,,,,,,,,,,,,,);
