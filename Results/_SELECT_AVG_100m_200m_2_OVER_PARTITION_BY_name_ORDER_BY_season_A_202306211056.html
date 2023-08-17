@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/><style>
+table {border: medium solid #6495ed;border-collapse: collapse;width: 100%;} th{font-family: monospace;border: thin solid #6495ed;padding: 5px;background-color: #D0E3FA;}td{font-family: sans-serif;border: thin solid #6495ed;padding: 5px;text-align: center;}.odd{background:#e8edff;}img{padding:5px; border:solid; border-color: #dddddd #aaaaaa #aaaaaa #dddddd; border-width: 1px 2px 2px 1px; background-color:white;}</style>
+</head>
+<body>
+<table><tr><th colspan="8">SELECT *,<br>    AVG(("100m" + "200m") / 2) OVER (PARTITION BY name ORDER BY season) AS avg_time<br>FROM (<br>    SELECT<br>        a.season,<br>        a.name,<br>        a.team,<br>        CAST(MAX(CASE WHEN a.round = 'FINAL' THEN a.time END) AS numeric(10,2)) AS "100m",<br>        a.wind,<br>		CAST(MAX(CASE WHEN b.round = 'FINAL' THEN b.time END) AS numeric(10,2)) AS "200m",<br>        b.wind<br>    FROM<br>        vw_m_100 a<br>    INNER JOIN vw_m_200 b<br>        ON a.name = b.name<br>        AND a.team = b.team<br>        AND a.season = b.season<br>        AND (a.round = 'FINAL' AND b.round = 'FINAL')<br>    WHERE<br>        a.place::integer IN ('1', '2', '3', '4', '5', '6', '7', '8', '9') <br>        AND b.place::integer IN ('1', '2', '3', '4', '5', '6', '7', '8', '9') <br>    GROUP BY<br>        a.season,<br>        a.name,<br>        a.team,<br>        a.wind,<br>        b.wind<br>) a<br>ORDER BY<br>	avg_time,<br>    a.season,<br>    a.name,<br>    a.team<br></th></tr><tr><th>season</th><th>name</th><th>team</th><th>100m</th><th>wind</th><th>200m</th><th>wind</th><th>avg_time</th></tr><tr class="odd"><td>2,015</td><td>Andre De Grasse</td><td>USC</td><td>9.75</td><td>2.7</td><td>19.58</td><td>2.4</td><td>14.665</td></tr>
+<tr><td>2,019</td><td>Divine ODUDURU</td><td>Texas Tech</td><td>9.86</td><td>0.8</td><td>19.73</td><td>0.8</td><td>14.795</td></tr>
+<tr class="odd"><td>2,015</td><td>Trayvon Bromell</td><td>Baylor</td><td>9.88</td><td>2.7</td><td>19.86</td><td>2.4</td><td>14.87</td></tr>
+<tr><td>2,023</td><td>Courtney LINDSEY</td><td>Texas Tech</td><td>9.89</td><td>1.8</td><td>19.86</td><td>0.9</td><td>14.875</td></tr>
+<tr class="odd"><td>2,023</td><td>Udodi ONWUZURIKE</td><td>Stanford</td><td>9.98</td><td>1.8</td><td>19.84</td><td>0.9</td><td>14.91</td></tr>
+<tr><td>2,019</td><td>Cravon GILLESPIE</td><td>Oregon</td><td>9.93</td><td>0.8</td><td>19.93</td><td>0.8</td><td>14.93</td></tr>
+<tr class="odd"><td>2,021</td><td>Terrance LAIRD</td><td>LSU</td><td>10.05</td><td>0.4</td><td>19.94</td><td>-0.4</td><td>14.995</td></tr>
+<tr><td>2,022</td><td>Joseph FAHNBULLEH</td><td>Florida</td><td>10</td><td>0.6</td><td>19.83</td><td>0.6</td><td>15</td></tr>
+<tr class="odd"><td>2,019</td><td>Hakim SANI BROWN</td><td>Florida</td><td>9.97</td><td>0.8</td><td>20.08</td><td>0.8</td><td>15.025</td></tr>
+<tr><td>2,019</td><td>Mario BURKE</td><td>Houston</td><td>10.06</td><td>0.8</td><td>20.11</td><td>0.8</td><td>15.085</td></tr>
+<tr class="odd"><td>2,021</td><td>Joseph FAHNBULLEH</td><td>Florida</td><td>10.26</td><td>0.4</td><td>19.91</td><td>-0.4</td><td>15.085</td></tr>
+<tr><td>2,021</td><td>Shaun MASWANGANYI</td><td>Houston</td><td>10.09</td><td>0.4</td><td>20.1</td><td>-0.4</td><td>15.095</td></tr>
+<tr class="odd"><td>2,017</td><td>Christian COLEMAN</td><td>Tennessee</td><td>10.04</td><td>-2.1</td><td>20.25</td><td>-3.1</td><td>15.145</td></tr>
+<tr><td>2,023</td><td>Shaun MASWANGANYI</td><td>Houston</td><td>9.91</td><td>1.8</td><td>20.07</td><td>0.9</td><td>15.156</td></tr>
+<tr class="odd"><td>2,015</td><td>Tevin Hester</td><td>Clemson</td><td>10.03</td><td>2.7</td><td>20.29</td><td>2.4</td><td>15.16</td></tr>
+<tr><td>2,016</td><td>Jarrion Lawson</td><td>Arkansas</td><td>10.22</td><td>-2.3</td><td>20.19</td><td>-0.2</td><td>15.205</td></tr>
+<tr class="odd"><td>2,019</td><td>Joseph AMOAH</td><td>Coppin State</td><td>10.22</td><td>0.8</td><td>20.19</td><td>0.8</td><td>15.205</td></tr>
+<tr><td>2,015</td><td>Kendal Williams</td><td>Florida State</td><td>9.98</td><td>2.7</td><td>20.45</td><td>2.4</td><td>15.215</td></tr>
+<tr class="odd"><td>2,018</td><td>Andre EWERS</td><td>Florida State</td><td>10.19</td><td>-0.9</td><td>20.29</td><td>0.0</td><td>15.24</td></tr>
+<tr><td>2,022</td><td>Shaun MASWANGANYI</td><td>Houston</td><td>10.26</td><td>0.6</td><td>20.51</td><td>0.6</td><td>15.24</td></tr>
+<tr class="odd"><td>2,016</td><td>Christian Coleman</td><td>Tennessee</td><td>10.23</td><td>-2.3</td><td>20.26</td><td>-0.2</td><td>15.245</td></tr>
+<tr><td>2,022</td><td>Matthew BOLING</td><td>Georgia</td><td>10.18</td><td>0.6</td><td>20.13</td><td>0.6</td><td>15.245</td></tr>
+<tr class="odd"><td>2,017</td><td>Nethaneel MITCHELL-BLAKE</td><td>LSU</td><td>10.26</td><td>-2.1</td><td>20.29</td><td>-3.1</td><td>15.275</td></tr>
+<tr><td>2,021</td><td>Matthew BOLING</td><td>Georgia</td><td>10.19</td><td>0.4</td><td>20.48</td><td>-0.4</td><td>15.335</td></tr>
+<tr class="odd"><td>2,021</td><td>Davonte BURNETT</td><td>USC</td><td>10.19</td><td>0.4</td><td>20.55</td><td>-0.4</td><td>15.37</td></tr>
+<tr><td>2,017</td><td>Kyree KING</td><td>Oregon</td><td>10.2</td><td>-2.1</td><td>20.61</td><td>-3.1</td><td>15.405</td></tr>
+<tr class="odd"><td>2,017</td><td>Christopher BELCHER</td><td>N. Carolina A&amp;T</td><td>10.19</td><td>-2.1</td><td>20.66</td><td>-3.1</td><td>15.425</td></tr>
+<tr><td>2,016</td><td>Kenzo Cotton</td><td>Arkansas</td><td>10.35</td><td>-2.3</td><td>20.55</td><td>-0.2</td><td>15.45</td></tr>
+<tr class="odd"><td>2,017</td><td>Senoj-Jay GIVANS</td><td>Texas</td><td>10.29</td><td>-2.1</td><td>20.76</td><td>-3.1</td><td>15.525</td></tr>
+<tr><td>2,021</td><td>JoVaughn MARTIN</td><td>Florida State</td><td>10.12</td><td>0.4</td><td>20.96</td><td>-0.4</td><td>15.54</td></tr>
+<tr class="odd"><td>2,017</td><td>Jaylen BACON</td><td>Arkansas State</td><td>10.25</td><td>-2.1</td><td>20.84</td><td>-3.1</td><td>15.545</td></tr>
+<tr><td>2,018</td><td>McKinely WEST</td><td>Southern Miss.</td><td>10.36</td><td>-0.9</td><td>20.84</td><td>0.0</td><td>15.6</td></tr>
+</table></body></html>
